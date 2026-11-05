@@ -35,4 +35,5 @@ Desde [[software-de-sistema]] se llega al sistema operativo al pasar del panoram
 Esta nota no explica cómo el [[nucleo-kernel]] asigna procesador, memoria y dispositivos, ni cómo funciona la gestión de recursos por dentro; eso se trata en [[nucleo-kernel]] y [[gestion-de-recursos]]. Tampoco detalla el sistema de archivos, los controladores ni el arranque previo al sistema operativo, tratados en [[sistema-de-archivos]], [[controladores-drivers]] y [[bios-uefi]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): funciones del sistema operativo y papel del núcleo.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): funciones del sistema operativo y papel del núcleo.

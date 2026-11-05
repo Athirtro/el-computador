@@ -35,4 +35,4 @@ Desde [[tabla-hash]] se llega a la colisión al preguntarse qué ocurre con la a
 Esta nota no trata el detalle de cómo se diseñan las funciones de dispersión para repartir las claves de forma uniforme; eso corresponde a la nota prevista de función de dispersión. Tampoco desarrolla en profundidad cada estrategia de resolución —encadenamiento con listas por posición o sondeo con secuencias de posiciones libres—, que quedan como conceptos nuevos propuestos al orquestador. Tampoco trata la elección del tamaño de la tabla en función de su carga ni las claves especiales, como las claves nulas o repetidas al insertar la misma clave dos veces.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0005 (Introduction to Algorithms, Cormen et al., 4ª ed.): colisión en tablas hash, encadenamiento y sondeo.

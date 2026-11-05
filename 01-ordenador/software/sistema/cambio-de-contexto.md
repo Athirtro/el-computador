@@ -35,4 +35,5 @@ Desde [[proceso]] se sabía que cada ejecución posee un estado propio, guardabl
 Esta nota no explica qué política sigue el núcleo para elegir el siguiente proceso ni durante cuánto tiempo le concede el procesador; eso se trata en [[planificador]]. Tampoco explica cómo se provocan los cambios involuntarios ni qué ocurre con las interrupciones del procesador, que corresponden a [[interrupciones]] y a [[llamadas-al-sistema]]. No detalla el contenido interno de los registros del procesador, lo cual corresponde a [[registros-y-unidad-de-control]], ni el reparto de la memoria entre procesos, que corresponde a [[gestor-de-memoria]] y a [[memoria-virtual]]. Tampoco trata cómo se crea el contexto inicial de un proceso nuevo al nacer, que queda para [[cargadores]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): cambio de contexto como guarda/restaura del estado del proceso.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): cambio de contexto como guarda/restaura del estado del proceso.

@@ -36,4 +36,4 @@ Desde [[firmware]] se pasa a su instancia principal en un ordenador: el firmware
 Esta nota no desarrolla la arquitectura interna de UEFI —sus protocolos, servicios de gráficos, arranque seguro o módulos en ejecutables portables—, ni el funcionamiento interno del cargador de arranque, ni cómo el [[nucleo-kernel]] gestiona los recursos una vez que el sistema operativo ya está en marcha. Cada uno de esos temas requiere su propia nota; aquí solo se explica el papel de BIOS/UEFI como eslabón entre el hardware y el sistema operativo.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0003 (UEFI Specification, UEFI Forum): papel de BIOS/UEFI como firmware de la placa base y entrega del control al cargador.

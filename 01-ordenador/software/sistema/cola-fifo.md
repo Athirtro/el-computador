@@ -35,4 +35,6 @@ Desde [[estructuras-de-datos]] se llega a la cola FIFO al pasar de la idea gener
 Esta nota no trata la pila, estructura en la que el último elemento en entrar es el primero en salir y que responde a una regla de servicio opuesta, ni el detalle de cómo se implementa una cola con arreglos, listas enlazadas u otros mecanismos concretos. Tampoco trata cómo el sistema operativo usa colas para organizar procesos o peticiones, que corresponde a notas posteriores del sistema.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): colas FIFO en el sistema operativo.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): colas FIFO en el sistema operativo.
+- FTE-0005 (Introduction to Algorithms, Cormen et al., 4ª ed.): definición, operaciones y orden FIFO.

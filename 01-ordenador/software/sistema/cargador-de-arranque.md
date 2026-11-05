@@ -34,4 +34,4 @@ Desde [[bios-uefi]], que prepara el hardware, ya ha localizado el siguiente prog
 Esta nota no desarrolla el detalle interno de BIOS/UEFI ni de UEFI —sus protocolos, servicios y módulos—, que se trata en [[bios-uefi]], ni el funcionamiento interno del [[nucleo-kernel]] una vez que el sistema operativo ya está en marcha, que se trata en [[nucleo-kernel]], ni la organización de archivos en disco, que se trata en [[sistema-de-archivos]]. Tampoco trata la familia de cargadores de programas (los que al ejecutar una aplicación la cargan en memoria), que responde a una pregunta distinta y se tratará en su propia nota. Aquí solo se explica el papel del cargador de arranque como eslabón entre la preparación del hardware y la gestión del ordenador.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0003 (UEFI Specification, UEFI Forum): contrato de entrega entre BIOS/UEFI y el cargador de arranque.

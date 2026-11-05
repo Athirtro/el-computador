@@ -38,4 +38,4 @@ La [[tabla-hash]] introdujo la idea de calcular la posición a partir de la clav
 Esta nota no trata el detalle de las colisiones —cómo se guardan dos claves en una misma posición—, que corresponde a [[colision-en-tabla-hash]]. Tampoco presenta familias concretas de funciones de dispersión ni criterios para elegir el tamaño de la tabla en función de su carga, ni la representación de estos datos en disco, que corresponde a [[formatos-de-archivos]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0005 (Introduction to Algorithms, Cormen et al., 4ª ed.): función de dispersión, reparto uniforme y determinismo.

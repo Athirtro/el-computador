@@ -36,4 +36,5 @@ Desde [[tipos-de-sistema-de-archivos]] se pasa a esta nota al bajar de los tipos
 Esta nota no desarrolla cómo ext4 ni NTFS organizan su diario por dentro, qué datos exactos anotan ni qué modos de registro ofrece cada uno; ese detalle interno queda fuera del alcance de este peldaño y solo se ha mencionado a nivel general en [[tipos-de-sistema-de-archivos]]. Tampoco trata la comprobación completa de consistencia como tema propio, las copias de seguridad ni los fallos físicos del disco.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota; las afirmaciones técnicas quedan pendientes de respaldo por el orquestador según §7.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): journaling como protección de consistencia ante cortes.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): journaling como protección de consistencia ante cortes.

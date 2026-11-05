@@ -41,4 +41,6 @@ Esta nota no trata cómo se representan los datos almacenados de forma persisten
 
 ## Referencias
 
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): organización de datos en memoria para procesos.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): organización de datos en memoria para procesos.
+- FTE-0005 (Introduction to Algorithms, Cormen et al., 4ª ed.): definición y operaciones de estructuras de datos.

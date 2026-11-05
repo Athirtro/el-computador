@@ -33,4 +33,5 @@ Desde [[gestor-de-procesos]] se entendía el reparto de turnos de [[procesador]]
 Esta nota no explica qué criterio usa el núcleo para elegir el siguiente proceso ni en qué orden atiende a los que esperan; eso se trata en [[planificador]]. Tampoco explica cómo se guarda físicamente el estado al retirar un proceso del [[procesador]] y cómo se carga el del siguiente; eso se trata en [[cambio-de-contexto]]. No trata cómo se reparte la [[memoria-ram]] entre procesos —eso corresponde a [[gestor-de-memoria]] y a [[memoria-virtual]]— ni cómo se crea un proceso a partir de un programa concreto, lo cual queda para [[cargadores]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): proceso como programa en ejecución con estado propio.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): proceso como programa en ejecución con estado propio.

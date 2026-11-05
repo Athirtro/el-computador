@@ -33,4 +33,5 @@ Desde [[gestion-de-recursos]] se pasa del esquema general de reparto a su aplica
 Esta nota no explica cómo se construye ese espacio ampliado ni cómo se traduce cada petición de un programa a posiciones físicas concretas; eso se trata en [[memoria-virtual]], de la que esta nota es prerequisito. Tampoco explica cómo se asigna el procesador entre los programas en ejecución, tarea de [[gestor-de-procesos]], ni el contenido físico de la memoria, materia de [[memoria-ram]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): reparto y recuperación de memoria entre procesos.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): reparto y recuperación de memoria entre procesos.

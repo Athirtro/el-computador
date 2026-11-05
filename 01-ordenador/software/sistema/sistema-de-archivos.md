@@ -35,4 +35,5 @@ Desde [[sistema-operativo]] se llega al sistema de archivos al pasar de la funci
 Esta nota no explica la representación interna de cada archivo, tratada en [[formatos-de-archivos]], ni la organización de datos en memoria, tratada en [[estructuras-de-datos]]. Tampoco entra en los tipos concretos de sistema de archivos ni en los dispositivos físicos de almacenamiento.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): organización persistente de archivos y carpetas.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): organización persistente de archivos y carpetas.

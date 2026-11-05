@@ -35,4 +35,5 @@ Desde [[sistema-operativo]] se pasa del entorno integral —qué hace el conjunt
 Esta nota no explica cómo se asignan en concreto el procesador, la memoria o los dispositivos, ni cómo se organizan los programas en ejecución; eso se trata en [[gestion-de-recursos]] y, dentro de ella, en [[gestor-de-procesos]]. Tampoco detalla la relación con los [[controladores-drivers]], los programas que enseñan a manejar cada periférico, ni la distinción entre las zonas de memoria del núcleo y de los programas, tratada en [[espacio-de-kernel]] y [[espacio-de-usuario]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): papel del núcleo como centro siempre activo.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): papel del núcleo como centro siempre activo.

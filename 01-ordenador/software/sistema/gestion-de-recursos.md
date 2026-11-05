@@ -35,4 +35,5 @@ Desde [[nucleo-kernel]] se pasa de la coordinación de recursos como función ge
 Esta nota no detalla los mecanismos con que se asigna el procesador entre programas en ejecución ni los que reparten la memoria disponible; eso se trata en [[gestor-de-procesos]] y en [[gestor-de-memoria]], respectivamente, junto con la [[memoria-virtual]], la abstracción con que el sistema amplía el espacio disponible para cada programa. Tampoco explica cómo se comunica el núcleo con cada dispositivo concreto, tarea de los [[controladores-drivers]], ni los criterios de acceso reservado a zonas de memoria del sistema.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): ciclo de asignación de recursos y criterios de prioridad.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): ciclo de asignación de recursos y criterios de prioridad.

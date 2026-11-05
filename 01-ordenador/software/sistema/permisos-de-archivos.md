@@ -33,4 +33,5 @@ Desde [[sistema-de-archivos]] se llega a los permisos al pasar de la organizaci�
 Esta nota no entra en el detalle de los tipos concretos de sistema de archivos, tratado en [[tipos-de-sistema-de-archivos]], ni en operaciones adicionales como la ejecución de un archivo, los atributos especiales ni la creación y administración de las cuentas de usuario.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): permisos y protección en sistemas de archivos.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): permisos y protección en sistemas de archivos.

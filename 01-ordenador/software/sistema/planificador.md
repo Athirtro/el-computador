@@ -39,4 +39,5 @@ Desde [[proceso]] se define el objeto que recibe turnos: una ejecución con esta
 Esta nota no explica cómo se guarda y se restaura el estado de un proceso al cambiar de un turno a otro; eso se trata en [[cambio-de-contexto]]. Tampoco trata la creación de procesos, que corresponde a [[gestor-de-procesos]], ni el reparto de la [[memoria-ram]] entre procesos —eso corresponde a [[gestor-de-memoria]] y a [[memoria-virtual]]—, ni la estructura interna de las colas que el planificador mantiene, que se estudia en [[estructuras-de-datos]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): políticas de planificación y prioridades.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): políticas de planificación y prioridades.

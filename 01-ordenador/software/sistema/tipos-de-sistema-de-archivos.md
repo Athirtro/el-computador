@@ -37,4 +37,5 @@ Desde [[sistema-de-archivos]] se pasa a esta nota al bajar del concepto general 
 Esta nota no desarrolla la estructura interna de ext4, NTFS ni FAT32, ni detalla el mecanismo de [[journaling]], tratado en la nota siguiente. Tampoco entra en tipos usados en medios extraíbles, en red o en dispositivos incrustados, ni en los dispositivos físicos de almacenamiento.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): tipos de sistema de archivos como reglas concretas de organización.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): tipos de sistema de archivos como reglas concretas de organización.

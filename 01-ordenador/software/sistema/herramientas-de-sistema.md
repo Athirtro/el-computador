@@ -38,4 +38,5 @@ Desde [[software-de-sistema]] se llegaba a las herramientas como el grupo de pro
 Esta nota no detalla el funcionamiento de ninguna herramienta concreta, ni la sintaxis de órdenes de un shell concreto, ni las estrategias de copia (qué datos guardar, con qué frecuencia o en qué soporte). Tampoco explica cómo el [[nucleo-kernel]] concede los recursos que las herramientas solicitan; eso se trata en [[gestion-de-recursos]]. El detalle de cada familia queda para notas propias si el orquestador decide abrirlas.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota; las afirmaciones son de alcance general y quedan pendientes de respaldo bibliográfico.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): papel de utilidades del sistema operativo.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): papel de utilidades del sistema operativo.

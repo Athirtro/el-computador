@@ -35,4 +35,5 @@ Desde [[memoria-virtual]] se pasa de la idea general de un espacio privado y tra
 Esta nota no explica el detalle de la división en piezas de tamaño fijo ni el mecanismo con que se traduce cada dirección de forma concreta; eso se trata en [[paginacion]]. Tampoco explica cómo se organizan los datos dentro de cada segmento, materia de [[estructuras-de-datos]], ni las zonas de usuario y de núcleo del espacio, materia de [[espacio-de-usuario]] y [[espacio-de-kernel]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): segmentación como división lógica del espacio virtual.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): segmentación como división lógica del espacio virtual.

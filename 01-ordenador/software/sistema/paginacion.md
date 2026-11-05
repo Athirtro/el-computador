@@ -35,4 +35,5 @@ Desde [[memoria-virtual]] se pasa de la promesa —un espacio privado y amplio q
 Esta nota no explica el modelo alternativo de dividir el espacio en segmentos de tamaño variable; eso se trata en [[segmentacion]]. No explica el detalle de cómo se organiza el espacio de un programa concreto, materia de [[espacio-de-usuario]]. Tampoco explica cómo se estructura internamente la tabla de páginas en varios niveles, cómo se acelera la traducción con cachés dedicadas, ni qué ocurre paso a paso cuando se pide una página no cargada; son peldaños posteriores si el orquestador los crea.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): paginación como mecanismo de la memoria virtual.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): paginación como mecanismo de la memoria virtual.

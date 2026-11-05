@@ -35,4 +35,4 @@ Desde [[sistema-operativo]] se llega a los controladores al preguntarse cómo el
 Esta nota no explica el [[firmware]] de cada dispositivo ni el arranque previo al sistema operativo —eso se trata en [[firmware]] y en [[bios-uefi]]—, ni cómo el [[nucleo-kernel]] asigna el procesador, la memoria y los dispositivos entre los programas que los solicitan —eso se trata en [[nucleo-kernel]] y en [[gestion-de-recursos]]—. Tampoco detalla la operación interna de ningún dispositivo concreto, como una impresora o una tarjeta de sonido, ni el procedimiento práctico de instalar o actualizar un controlador en un sistema determinado.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0004 (The Linux Kernel documentation, kernel.org): papel de los controladores de dispositivo en el núcleo Linux.

@@ -35,4 +35,6 @@ Desde [[estructuras-de-datos]] se llega a la tabla hash al pasar de la idea gene
 Esta nota no trata el detalle de las colisiones —cuándo dos claves caen en la misma posición y cómo se guardan ambas—, ni el diseño de funciones de dispersión concretas, ni la elección del tamaño de la tabla en función de su carga. Tampoco trata la representación de estos datos en disco, que corresponde a [[formatos-de-archivos]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): tablas hash en sistemas.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): tablas hash en sistemas.
+- FTE-0005 (Introduction to Algorithms, Cormen et al., 4ª ed.): búsqueda por clave y cálculo de posición.

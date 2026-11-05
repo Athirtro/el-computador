@@ -35,4 +35,6 @@ Desde [[estructuras-de-datos]] se llega a la pila al pasar de la idea general de
 Esta nota no trata la cola, estructura en la que la eliminación ocurre por el extremo contrario al de inserción, ni el árbol, organización jerárquica con varios niveles de dependencia; ambas quedan para sus notas propias previstas en el mapa del libro. Tampoco detalla cómo se implementa la pila en memoria ni cómo la gestiona el sistema operativo en cada proceso.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): pilas en la gestión de llamadas del sistema.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): pilas en la gestión de llamadas del sistema.
+- FTE-0005 (Introduction to Algorithms, Cormen et al., 4ª ed.): definición LIFO y operaciones de la pila.

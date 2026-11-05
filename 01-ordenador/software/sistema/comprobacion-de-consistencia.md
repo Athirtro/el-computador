@@ -39,4 +39,5 @@ Desde [[journaling]] se pasa a esta nota al preguntarse qué ocurre cuando el di
 Esta nota no desarrolla el detalle interno del diario de cambios, que se trata en [[journaling]], ni cómo cada tipo concreto, como ext4, NTFS o FAT32, nombra y ordena sus estructuras internas, que se trata en [[tipos-de-sistema-de-archivos]]. Tampoco trata las copias de seguridad ni los fallos físicos del disco: la comprobación repara inconsistencias lógicas en las estructuras, no sustituye la recuperación de datos dañados ni la prevención de fallos del soporte.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md` para esta nota. Las afirmaciones técnicas sobre el procedimiento de comprobación quedan pendientes de respaldo por el orquestador según §7.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): consistencia y recuperación de sistemas de archivos.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): consistencia y recuperación de sistemas de archivos.

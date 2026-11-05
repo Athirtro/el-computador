@@ -34,4 +34,4 @@ Desde [[software-de-sistema]] se sigue el orden de arranque de un ordenador: pri
 Esta nota no desarrolla cómo funciona [[bios-uefi]] por dentro —reconocimiento de componentes, configuración y carga del sistema operativo—, ni cómo los [[controladores-drivers]] enseñan al sistema operativo a manejar cada dispositivo, ni cómo el [[nucleo-kernel]] reparte procesador y memoria una vez arrancado. Cada uno de esos temas tiene su nota canónica: [[bios-uefi]], [[controladores-drivers]] y [[nucleo-kernel]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0003 (UEFI Specification, UEFI Forum): definición de firmware y su papel previo al sistema operativo.

@@ -35,4 +35,5 @@ Desde [[gestion-de-recursos]] se pasa de la idea general de repartir recursos co
 Esta nota no trata cómo se reparte la memoria entre procesos ni cómo se amplía el espacio disponible para cada uno; eso corresponde a [[gestor-de-memoria]] y a [[memoria-virtual]]. Tampoco trata cómo el núcleo se comunica con cada dispositivo concreto, ni cómo se implementa en un sistema concreto el cambio de contexto entre turnos. Los nombres y abreviaturas inglesas de los mecanismos de planificación quedan fuera de esta nota.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): turnos de CPU, prioridades y estados de proceso.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): turnos de CPU, prioridades y estados de proceso.

@@ -33,4 +33,5 @@ Desde [[nucleo-kernel]] se sabe que hay un centro siempre activo que controla lo
 Esta nota no explica el mecanismo hardware con el que se entrega el control al invocar una llamada, ni el detalle de las interrupciones que lo hacen posible; eso se trata en [[interrupciones]]. Tampoco enumera los servicios concretos que ofrece un sistema determinado ni las vías de programación que los exponen a los programas.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): llamadas al sistema como petición al núcleo.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): llamadas al sistema como petición al núcleo.

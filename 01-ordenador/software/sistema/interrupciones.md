@@ -35,4 +35,5 @@ Desde [[llamadas-al-sistema]] se sabe que el programa entrega el control al [[nu
 Esta nota no detalla qué registros guarda el procesador al suspender su trabajo ni cómo se organiza internamente la transferencia del control; eso pertenece a la capa de procesador y se trata en [[registros-y-unidad-de-control]]. Tampoco explica cómo el núcleo decide qué programa recibe el procesador tras una interrupción por temporizador; eso se trata en [[gestion-de-recursos]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): interrupciones por dispositivo y por temporizador como entrega de control.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): interrupciones por dispositivo y por temporizador como entrega de control.

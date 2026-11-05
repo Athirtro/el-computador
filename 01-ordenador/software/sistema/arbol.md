@@ -33,4 +33,6 @@ Desde [[estructuras-de-datos]] se llega al árbol al concretar la idea de organi
 Esta nota no trata la organización por clave calculada, que se trata en [[tabla-hash]]. Tampoco trata cómo se representan estos datos de forma persistente en disco, tratado en [[formatos-de-archivos]], ni variantes especializadas del árbol, como los árboles binarios o los árboles equilibrados, que quedan fuera del alcance de este peldaño y requerirían notas propias si el orquestador las aprueba.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): organización jerárquica de datos.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): organización jerárquica de datos.
+- FTE-0005 (Introduction to Algorithms, Cormen et al., 4ª ed.): definición y operaciones básicas de árboles.

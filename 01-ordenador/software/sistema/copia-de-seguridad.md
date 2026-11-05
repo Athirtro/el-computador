@@ -36,4 +36,5 @@ Desde [[herramientas-de-sistema]] se llegaba a la copia de seguridad como una de
 Esta nota no describe el funcionamiento interno del [[journaling]], ni los [[tipos-de-sistema-de-archivos]] concretos sobre los que se copia, ni la sintaxis de ninguna herramienta de copia en particular. Tampoco trata de la cifrado de las copias ni de la protección frente a programas maliciosos que las borren; eso corresponde, en su caso, a [[defensa-malware]], aún no redactada.
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota; las afirmaciones son de alcance general y quedan pendientes de respaldo bibliográfico.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): marco general de sistemas de archivos y persistencia.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): marco general de sistemas de archivos y persistencia.

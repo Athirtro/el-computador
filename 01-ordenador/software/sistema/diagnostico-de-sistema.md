@@ -33,4 +33,5 @@ Desde [[herramientas-de-sistema]] se llegaba al diagnóstico como una de sus tre
 Esta nota no trata la reparación física —sustituir un disco, una memoria o cualquier otro componente—, que pertenece a las notas de hardware correspondientes, ni la reparación de software concreta, como reinstalar un programa o corregir los daños de un sistema de archivos. Tampoco detalla el funcionamiento interno de ninguna herramienta concreta ni la sintaxis de sus órdenes. Para la copia de seguridad y el intérprete de órdenes, véase [[herramientas-de-sistema]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md` reutilizables para esta nota. No se han añadido fuentes; las afirmaciones son de alcance general y quedan pendientes de respaldo bibliográfico con documentación oficial de herramientas concretas.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): marco general de observación del sistema operativo para diagnóstico.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): marco general de observación del sistema operativo para diagnóstico.

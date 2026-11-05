@@ -36,4 +36,5 @@ Desde [[estructuras-de-datos]] y [[sistema-de-archivos]] se llega a los formatos
 Esta nota no detalla ningún formato concreto; cada formato específico necesitaría su propia nota si el libro decide tratarlo. Tampoco trata de nuevo la organización de los datos en memoria, cubierta en [[estructuras-de-datos]], ni la organización de archivos y carpetas, cubierta en [[sistema-de-archivos]].
 
 ## Referencias
-Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.
+- FTE-0001 (Operating Systems: Three Easy Pieces, Arpaci-Dusseau y Arpaci-Dusseau): representación de datos en disco y persistencia.
+- FTE-0002 (Modern Operating Systems, 4ª ed., Tanenbaum): representación de datos en disco y persistencia.
