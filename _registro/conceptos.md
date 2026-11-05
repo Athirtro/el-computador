@@ -673,3 +673,33 @@
 - Alias: gestión de ventanas, window management
 - Cubre: apilar, mover, activar, cerrar
 - No cubre: detalle widget
+
+## red-de-computadores
+- Nota canónica: [[red-de-computadores]]
+- Alias: red de computadoras, computer network
+- Cubre: ordenadores conectados, intercambio de datos
+- No cubre: [[protocolo-de-red]]
+
+## protocolo-de-red
+- Nota canónica: [[protocolo-de-red]]
+- Alias: protocolo de comunicación, network protocol
+- Cubre: reglas petición/respuesta
+- No cubre: [[cliente-servidor]]
+
+## cliente-servidor
+- Nota canónica: [[cliente-servidor]]
+- Alias: relación cliente-servidor, modelo cliente-servidor, client-server
+- Cubre: papeles cliente/servidor
+- No cubre: [[servidor]]
+
+## servidor
+- Nota canónica: [[servidor]]
+- Alias: server
+- Cubre: escucha/atiende/responde
+- No cubre: protocolo detalle
+
+## sesion
+- Nota canónica: [[sesion]]
+- Alias: sesión de usuario, session
+- Cubre: periodo autenticado con identificador
+- No cubre: [[autorizacion]]

@@ -179,9 +179,9 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[interfaz-grafica-de-usuario]] — borrador (conjunto elementos)
 - [[gestion-de-ventanas]] — borrador (apilar/mover/activar/cerrar)
 - [[eventos-de-interfaz]] — borrador (notificación usuario→app)
-- [[red-de-computadores]] — pendiente
-- [[protocolo-de-red]] — pendiente
-- [[cliente-servidor]] — pendiente
-- [[servidor]] — pendiente
-- [[sesion]] — pendiente
+- [[red-de-computadores]] — borrador (ordenadores conectados)
+- [[protocolo-de-red]] — borrador (reglas petición/respuesta)
+- [[cliente-servidor]] — borrador (papeles)
+- [[servidor]] — borrador (escucha/atiende/responde)
+- [[sesion]] — borrador (periodo autenticado)
 - [[autorizacion]] — pendiente

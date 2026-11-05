@@ -102,3 +102,8 @@
 210. [[interfaz-grafica-de-usuario]] — prerequisitos: [aplicacion-grafica] → conduce_a: [ventana] (borrador entregado, con FTE-0001/0002)
 211. [[eventos-de-interfaz]] — prerequisitos: [widget] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 212. [[gestion-de-ventanas]] — prerequisitos: [ventana] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+213. [[red-de-computadores]] — prerequisitos: [aplicacion-con-red] → conduce_a: [protocolo-de-red] (borrador entregado, con FTE-0001/0002)
+214. [[protocolo-de-red]] — prerequisitos: [red-de-computadores] → conduce_a: [cliente-servidor] (borrador entregado, con FTE-0001/0002)
+215. [[cliente-servidor]] — prerequisitos: [protocolo-de-red] → conduce_a: [servidor] (borrador entregado, con FTE-0001/0002)
+216. [[servidor]] — prerequisitos: [cliente-servidor] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+217. [[sesion]] — prerequisitos: [seguridad-aplicacion-con-red] → conduce_a: [autorizacion] (borrador entregado, con FTE-0001/0002)
