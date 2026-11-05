@@ -80,6 +80,19 @@
   - [[cola-fifo]] — borrador (FIFO)
   - [[arbol]] — borrador (jerarquía)
   - [[tabla-hash]] — borrador (clave)
+  - [[tabla-de-paginas]] — pendiente
+  - [[fallo-de-pagina]] — pendiente
+  - [[funcion-de-dispersion]] — pendiente
+  - [[colision-en-tabla-hash]] — pendiente
+  - [[usuario-de-sistema]] — pendiente
+  - [[shell]] — pendiente
+  - [[copia-de-seguridad]] — pendiente
+  - [[diagnostico-de-sistema]] — pendiente
+  - [[hilos-concurrencia]] — pendiente
+  - [[multitarea]] — pendiente
+  - [[modo-privilegiado]] — pendiente
+  - [[comprobacion-de-consistencia]] — pendiente
+  - [[bloque-de-control-de-proceso]] — pendiente
 - Aplicación
   - [[software-de-aplicacion]] — borrador (panorama por finalidad)
   - [[aplicacion-grafica]] — borrador (GUI)
