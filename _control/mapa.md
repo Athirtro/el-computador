@@ -214,3 +214,27 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[certificados-digitales]] — borrador (documento firmado)
 - [[criptografia-clave]] — borrador (simetrica/asimétrica)
 - [[confidencialidad-integridad]] — borrador (solo lee / detecta cambio)
+
+## Aplicación - 17 huecos A-F (S-A3)
+- [[protocolo-http-detalle]] — pendiente
+- [[servidor-web-detalle]] — pendiente
+- [[javascript]] — pendiente
+- [[modelo-de-objetos-del-documento]] — pendiente
+- [[interprete-del-navegador]] — pendiente
+- [[componente-web-incorporado]] — pendiente
+- [[puente-nativo]] — pendiente
+- [[aplicacion-nativa-pura]] — pendiente
+- [[gestion-de-energia-movil]] — pendiente
+- [[escritorio-superficie]] — pendiente
+- [[sincronizacion-audio-video]] — pendiente
+- [[contenedor-multimedia-detalle]] — pendiente
+- [[formato-de-intercambio]] — pendiente
+- [[estandar-de-codec]] — pendiente
+- [[autoridad-certificadora]] — pendiente
+- [[infraestructura-de-claves-publicas]] — pendiente
+- [[clave-simetrica]] — pendiente
+- [[clave-asimetrica]] — pendiente
+- [[autenticacion-remota]] — pendiente
+- [[bucle-de-eventos]] — pendiente
+- [[direccion-ip]] — pendiente
+- [[dns]] — pendiente
