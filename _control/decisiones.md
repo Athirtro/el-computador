@@ -37,3 +37,14 @@ Tu tabla (`El computador.md`) fija: CPU AMD Ryzen 7 5700G, GPU RTX 5050 8 GB, RA
 
 ## D-005 Estructura .obsidian versionada
 `.obsidian/` está commiteado. Propuesta: mantenerlo versionado por ahora; añadir `.gitignore` solo para `.obsidian/workspace.json` si querés historial limpio. Decidir antes de siguiente commit.
+
+## D-006 Pausa desarrollo aplicación (2026-11-05)
+Desarrollo en pausa al completar Lote E2. Rama aplicación: 44 notas en borrador, 0 pendientes en mapa. 22 huecos A-F quedan como lotes pendientes:
+
+- **F1 (7):** direccion-web-detalle, codigo-de-estado, contenido-estatico-web, contenido-dinamico-web, sintaxis-javascript, componente-web-incorporado-detalle, aplicacion-nativa-pura
+- **F2 (5):** serializacion-de-datos, pixel, buffer-de-imagen, rasterizacion, pantalla
+- **F3 (5):** captura-vs-burbujeo, contenedor-multimedia-detalle, formato-de-intercambio, estandar-de-codec, autoridad-certificadora
+- **F4 (5):** infraestructura-de-claves-publicas, clave-simetrica, clave-asimetrica, autenticacion-remota, bucle-de-eventos
+- **F5 (5):** altura-de-arbol, arbol-de-busqueda-binaria, recorridos-en-arbol, direccion-ip, dns
+
+Al reanudar: generar desde `cola-pendientes.md` (sin enlaces desde notas) y lanzar F1→F5 en orden, validando enlaces solo a `cola-listos.md` (§4.1).

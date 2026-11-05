@@ -66,3 +66,6 @@ Empieza por `00-indice.md` y sigue los enlaces `[[...]]`.
 
 ---
 Orquestación por agente con subagentes redactores. Todo cambio se versiona: commit + push a `main`.
+
+## Pausa en desarrollo (2026-11-05)
+Rama aplicación completa en borrador (44 notas). Lotes F1-F5 de huecos pendientes documentados en `_control/decisiones.md` D-006 para retomar en el futuro. Sistema: 71 notas agotadas.
