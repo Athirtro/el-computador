@@ -68,17 +68,18 @@
   - [[planificador]] — borrador (política de turnos)
   - [[cambio-de-contexto]] — borrador (guardar/cargar estado)
   - [[llamadas-al-sistema]] — borrador (petición-respuesta)
+  - [[interrupciones]] — borrador (señal hardware)
   - [[paginacion]] — borrador (páginas fijas)
   - [[segmentacion]] — borrador (segmentos variables)
   - [[herramientas-de-sistema]] — borrador (diagnóstico, shell, backup)
   - [[cargador-de-arranque]] — borrador (puente BIOS/UEFI → SO)
   - [[tipos-de-sistema-de-archivos]] — borrador (ext4/NTFS/FAT32)
-  - [[permisos-de-archivos]] — pendiente
-  - [[journaling]] — pendiente
-  - [[pila]] — pendiente
-  - [[cola-fifo]] — pendiente
-  - [[arbol]] — pendiente
-  - [[tabla-hash]] — pendiente
+  - [[permisos-de-archivos]] — borrador (leer/escribir)
+  - [[journaling]] — borrador (diario de cambios)
+  - [[pila]] — borrador (LIFO)
+  - [[cola-fifo]] — borrador (FIFO)
+  - [[arbol]] — borrador (jerarquía)
+  - [[tabla-hash]] — borrador (clave)
 - Aplicación
   - [[software-de-aplicacion]] — borrador (panorama por finalidad)
   - [[aplicacion-grafica]] — borrador (GUI)
