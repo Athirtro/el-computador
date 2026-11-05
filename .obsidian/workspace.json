@@ -183,6 +183,8 @@
   },
   "active": "cdc58754ea946f2d",
   "lastOpenFiles": [
+    "01-ordenador/software/sistema/gestor-de-procesos.md",
+    "01-ordenador/software/sistema/gestor-de-memoria.md",
     "01-ordenador/software/sistema/controladores-drivers.md",
     "01-ordenador/software/sistema/sistema-de-archivos.md",
     "01-ordenador/software/sistema/bios-uefi.md",
@@ -207,8 +209,6 @@
     "01-ordenador/hardware/espacio-de-kernel.md",
     "01-ordenador/hardware/espacio-de-usuario.md",
     "01-ordenador/hardware/memoria-virtual.md",
-    "01-ordenador/hardware/memoria-ram.md",
-    "01-ordenador/software/sistema/gestion-de-recursos.md",
     "_registro",
     "_control",
     "01-ordenador/software/malicioso",

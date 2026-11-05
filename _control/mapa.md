@@ -57,8 +57,8 @@
   - [[sistema-operativo]] — borrador (entorno integral)
   - [[nucleo-kernel]] — borrador (centro siempre activo)
   - [[gestion-de-recursos]] — borrador (ciclo solicitud/concesión/espera)
-  - [[gestor-de-procesos]] — pendiente
-  - [[gestor-de-memoria]] — pendiente
+  - [[gestor-de-procesos]] — borrador (turnos CPU, prioridades)
+  - [[gestor-de-memoria]] — borrador (reparto memoria)
   - [[sistema-de-archivos]] — borrador (persistencia)
   - [[controladores-drivers]] — borrador (traducción dispositivo)
   - [[estructuras-de-datos]] — borrador (organización en memoria)

@@ -16,7 +16,9 @@
 6d. [[estructuras-de-datos]] — prerequisitos: [sistema-operativo] → conduce_a: [formatos-de-archivos] (borrador entregado, sin fuentes)
 7. [[gestion-de-recursos]] — prerequisitos: [nucleo-kernel] → conduce_a: [gestor-de-procesos, gestor-de-memoria] (borrador entregado, sin fuentes)
 7a. [[formatos-de-archivos]] — prerequisitos: [estructuras-de-datos, sistema-de-archivos] → conduce_a: [] (borrador entregado, sin fuentes, rama terminal)
-8. [[memoria-virtual]] — prerequisitos: [gestor-de-memoria] → conduce_a: [espacio-de-usuario, espacio-de-kernel]
+8. [[gestor-de-procesos]] — prerequisitos: [gestion-de-recursos] → conduce_a: [] (borrador entregado, sin fuentes)
+8a. [[gestor-de-memoria]] — prerequisitos: [gestion-de-recursos] → conduce_a: [memoria-virtual] (borrador entregado, sin fuentes)
+8b. [[memoria-virtual]] — prerequisitos: [gestor-de-memoria] → conduce_a: [espacio-de-usuario, espacio-de-kernel]
 9. [[lenguajes-de-programacion]] — prerequisitos: [software-de-programacion] → conduce_a: [lenguajes-compilados, lenguajes-interpretados] (borrador entregado, sin fuentes)
 9a. [[aplicacion-grafica]] — prerequisitos: [software-de-aplicacion] → conduce_a: [] (borrador entregado, rama terminal)
 9b. [[aplicacion-con-red]] — prerequisitos: [software-de-aplicacion] → conduce_a: [] (borrador entregado, rama terminal)
