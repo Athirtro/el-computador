@@ -11,14 +11,10 @@
             "id": "cdc58754ea946f2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-indice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00-indice"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -187,6 +183,10 @@
   },
   "active": "cdc58754ea946f2d",
   "lastOpenFiles": [
+    "01-ordenador/software/sistema/controladores-drivers.md",
+    "01-ordenador/software/sistema/sistema-de-archivos.md",
+    "01-ordenador/software/sistema/bios-uefi.md",
+    "00-indice.md",
     "01-ordenador/software/aplicacion/aplicacion-grafica.md",
     "01-ordenador/software/malicioso/vulnerabilidades.md",
     "01-ordenador/software/aplicacion/aplicacion-con-red.md",
@@ -209,10 +209,6 @@
     "01-ordenador/hardware/memoria-virtual.md",
     "01-ordenador/hardware/memoria-ram.md",
     "01-ordenador/software/sistema/gestion-de-recursos.md",
-    "01-ordenador/software/sistema/sistema-operativo.md",
-    "01-ordenador/software/sistema/nucleo-kernel.md",
-    "01-ordenador/software/software-malicioso.md",
-    "01-ordenador/software/software-de-programacion.md",
     "_registro",
     "_control",
     "01-ordenador/software/malicioso",

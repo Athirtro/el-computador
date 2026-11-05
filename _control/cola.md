@@ -9,7 +9,11 @@
 4d. [[software-malicioso]] — prerequisitos: [software] → conduce_a: [malware, vulnerabilidades, exploits, defensa-malware] (borrador entregado, sin fuentes)
 5. [[sistema-operativo]] — prerequisitos: [software-de-sistema] → conduce_a: [nucleo-kernel, sistema-de-archivos, controladores-drivers] (borrador entregado, sin fuentes)
 5a. [[firmware]] — prerequisitos: [software-de-sistema] → conduce_a: [bios-uefi] (borrador entregado, sin fuentes)
-6. [[nucleo-kernel]] — prerequisitos: [sistema-operativo] → conduce_a: [gestion-de-recursos]
+6. [[nucleo-kernel]] — prerequisitos: [sistema-operativo] → conduce_a: [gestion-de-recursos] (borrador entregado, sin fuentes)
+6a. [[bios-uefi]] — prerequisitos: [firmware] → conduce_a: [sistema-operativo] (borrador entregado, sin fuentes)
+6b. [[sistema-de-archivos]] — prerequisitos: [sistema-operativo] → conduce_a: [estructuras-de-datos, formatos-de-archivos] (borrador entregado, sin fuentes)
+6c. [[controladores-drivers]] — prerequisitos: [sistema-operativo] → conduce_a: [] (borrador entregado, rama terminal)
+6d. [[estructuras-de-datos]] — prerequisitos: [sistema-operativo] → conduce_a: [formatos-de-archivos] (borrador entregado, sin fuentes)
 7. [[gestion-de-recursos]] — prerequisitos: [nucleo-kernel] → conduce_a: [gestor-de-procesos, gestor-de-memoria]
 8. [[memoria-virtual]] — prerequisitos: [gestor-de-memoria] → conduce_a: [espacio-de-usuario, espacio-de-kernel]
 9. [[lenguajes-de-programacion]] — prerequisitos: [software-de-programacion] → conduce_a: [lenguajes-compilados, lenguajes-interpretados] (borrador entregado, sin fuentes)

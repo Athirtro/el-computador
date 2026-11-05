@@ -53,15 +53,15 @@
 - Sistema
   - [[software-de-sistema]] — borrador (reescrito panorama 4 subgrupos)
   - [[firmware]] — borrador (panorama)
-  - [[bios-uefi]] — pendiente
+  - [[bios-uefi]] — borrador (arranque placa base)
   - [[sistema-operativo]] — borrador (entorno integral)
-  - [[nucleo-kernel]] — pendiente (legado: `El Kernel.md`)
+  - [[nucleo-kernel]] — borrador (centro siempre activo)
   - [[gestion-de-recursos]] — pendiente (legado: `Gestión de recursos.md`)
   - [[gestor-de-procesos]] — pendiente
   - [[gestor-de-memoria]] — pendiente
-  - [[sistema-de-archivos]] — pendiente
-  - [[controladores-drivers]] — pendiente
-  - [[estructuras-de-datos]] — pendiente (legado: `Estructuras de datos.md`)
+  - [[sistema-de-archivos]] — borrador (persistencia)
+  - [[controladores-drivers]] — borrador (traducción dispositivo)
+  - [[estructuras-de-datos]] — borrador (organización en memoria)
   - [[formatos-de-archivos]] — pendiente (legado: `Formatos de archivos.md`)
 - Aplicación
   - [[software-de-aplicacion]] — borrador (panorama por finalidad)
