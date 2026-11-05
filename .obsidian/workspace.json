@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-ordenador/software.md",
+                "file": "00-indice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "software"
+              "title": "00-indice"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "cdc58754ea946f2d",
   "lastOpenFiles": [
-    "01-ordenador/ordenador.md",
+    "_control/plan-nivel-3.md",
     "01-ordenador/software.md",
+    "01-ordenador/ordenador.md",
     "AGENTS.md",
     "README.md",
     "01-ordenador/software/programacion/codigo-maquina.md",
@@ -212,7 +213,6 @@
     "01-ordenador/hardware.md",
     "_registro/fuentes.md",
     "_registro/conceptos.md",
-    "_control/decisiones.md",
     "_registro",
     "_control",
     "01-ordenador/software/malicioso",
