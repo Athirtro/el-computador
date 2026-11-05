@@ -3,7 +3,9 @@
 1. [[ordenador]] — prerequisitos: [] → conduce_a: [software, hardware]
 2. [[software]] — prerequisitos: [ordenador] → conduce_a: [software-de-sistema, software-de-aplicacion, software-de-programacion, software-malicioso] (borrador entregado)
 3. [[hardware]] — prerequisitos: [ordenador] → conduce_a: [procesador, memoria-ram]
-4. [[software-de-sistema]] — prerequisitos: [software] → conduce_a: [sistema-operativo]
+4. [[software-de-sistema]] — prerequisitos: [software] → conduce_a: [sistema-operativo, firmware, bios-uefi, sistema-de-archivos, controladores-drivers] (borrador entregado, sin fuentes)
+4b. [[software-de-aplicacion]] — prerequisitos: [software] → conduce_a: [aplicacion-grafica, aplicacion-con-red] (borrador entregado, sin fuentes)
+4c. [[software-de-programacion]] — prerequisitos: [software] → conduce_a: [lenguajes-de-programacion, compilador, interprete] (borrador entregado, circularidad corregida: prerequisito solo [software])
 5. [[sistema-operativo]] — prerequisitos: [software-de-sistema] → conduce_a: [nucleo-kernel]
 6. [[nucleo-kernel]] — prerequisitos: [sistema-operativo] → conduce_a: [gestion-de-recursos]
 7. [[gestion-de-recursos]] — prerequisitos: [nucleo-kernel] → conduce_a: [gestor-de-procesos, gestor-de-memoria]

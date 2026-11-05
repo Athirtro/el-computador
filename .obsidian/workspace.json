@@ -11,10 +11,14 @@
             "id": "cdc58754ea946f2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "01-ordenador/software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "software"
             }
           }
         ]
@@ -183,6 +187,8 @@
   },
   "active": "cdc58754ea946f2d",
   "lastOpenFiles": [
+    "01-ordenador/ordenador.md",
+    "01-ordenador/software.md",
     "AGENTS.md",
     "README.md",
     "01-ordenador/software/programacion/codigo-maquina.md",
@@ -203,9 +209,7 @@
     "01-ordenador/software/software-de-programacion.md",
     "01-ordenador/software/software-de-aplicacion.md",
     "01-ordenador/software/software-de-sistema.md",
-    "01-ordenador/software.md",
     "01-ordenador/hardware.md",
-    "01-ordenador/ordenador.md",
     "_registro/fuentes.md",
     "_registro/conceptos.md",
     "_control/decisiones.md",

@@ -51,7 +51,7 @@
 
 ## 2. Software (visible → físico)
 - Sistema
-  - [[software-de-sistema]] — pendiente (legado: `Software de sistema.md`)
+  - [[software-de-sistema]] — borrador (reescrito panorama 4 subgrupos)
   - [[firmware]] — pendiente
   - [[bios-uefi]] — pendiente
   - [[sistema-operativo]] — pendiente (legado: `El sistema operativo.md`)
@@ -64,11 +64,11 @@
   - [[estructuras-de-datos]] — pendiente (legado: `Estructuras de datos.md`)
   - [[formatos-de-archivos]] — pendiente (legado: `Formatos de archivos.md`)
 - Aplicación
-  - [[software-de-aplicacion]] — pendiente (legado: `Software de aplicación.md` vacío)
+  - [[software-de-aplicacion]] — borrador (panorama por finalidad)
   - [[aplicacion-grafica]] — pendiente
   - [[aplicacion-con-red]] — pendiente
 - Programación
-  - [[software-de-programacion]] — pendiente (legado: `Software de programación.md` vacío)
+  - [[software-de-programacion]] — borrador (panorama lenguajes/traductores/IDE)
   - [[lenguajes-de-programacion]] — pendiente (legado: `Lenguajes de programación.md`)
   - [[lenguajes-compilados]] — pendiente (legado: `Lenguajes compilados.md`)
   - [[lenguajes-interpretados]] — pendiente
