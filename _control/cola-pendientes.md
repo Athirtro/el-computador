@@ -54,3 +54,13 @@
 8be. [[ntfs]] — prerequisitos: [tipos-de-sistema-de-archivos] → conduce_a: []
 8bf. [[fat32]] — prerequisitos: [tipos-de-sistema-de-archivos] → conduce_a: []
 8bg. [[seguridad-aplicacion-con-red]] — prerequisitos: [aplicacion-con-red] → conduce_a: []
+100. [[sincronizacion-entre-procesos]] — prerequisitos: [sincronizacion-de-hilos] → conduce_a: [] (hueco software S-8)
+101. [[interbloqueo]] — prerequisitos: [sincronizacion-de-hilos] → conduce_a: [] (hueco software S-8)
+102. [[manejo-de-interrupciones]] — prerequisitos: [interrupciones] → conduce_a: [] (hueco software S-8)
+103. [[instruccion-privilegiada]] — prerequisitos: [modo-privilegiado] → conduce_a: [] (hueco software S-8)
+104. [[credenciales]] — prerequisitos: [usuario-de-sistema] → conduce_a: [autenticacion]
+105. [[autenticacion]] — prerequisitos: [credenciales] → conduce_a: [] (hueco software S-8)
+106. [[tabla-maestra-de-archivos]] — prerequisitos: [ntfs] → conduce_a: [] (hueco software S-8)
+107. [[lista-de-control-de-acceso]] — prerequisitos: [ntfs, permisos-de-archivos] → conduce_a: [] (hueco software S-8)
+108. [[extent]] — prerequisitos: [ext4] → conduce_a: [] (hueco software S-8)
+109. [[registro-de-eventos-detalle]] — prerequisitos: [registro-de-eventos] → conduce_a: [] (hueco software S-8)
