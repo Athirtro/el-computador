@@ -56,13 +56,13 @@
   - [[bios-uefi]] — borrador (arranque placa base)
   - [[sistema-operativo]] — borrador (entorno integral)
   - [[nucleo-kernel]] — borrador (centro siempre activo)
-  - [[gestion-de-recursos]] — pendiente (legado: `Gestión de recursos.md`)
+  - [[gestion-de-recursos]] — borrador (ciclo solicitud/concesión/espera)
   - [[gestor-de-procesos]] — pendiente
   - [[gestor-de-memoria]] — pendiente
   - [[sistema-de-archivos]] — borrador (persistencia)
   - [[controladores-drivers]] — borrador (traducción dispositivo)
   - [[estructuras-de-datos]] — borrador (organización en memoria)
-  - [[formatos-de-archivos]] — pendiente (legado: `Formatos de archivos.md`)
+  - [[formatos-de-archivos]] — borrador (representación en disco)
 - Aplicación
   - [[software-de-aplicacion]] — borrador (panorama por finalidad)
   - [[aplicacion-grafica]] — borrador (GUI)
