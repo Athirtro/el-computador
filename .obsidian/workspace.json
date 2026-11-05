@@ -95,8 +95,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +180,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "186d22d9ad2cb5cc",
+  "active": "8e15337d26648bfc",
   "lastOpenFiles": [
+    "Sin título.md",
     "01-ordenador/software/aplicacion/componente-web-incorporado.md",
     "01-ordenador/software/aplicacion/puente-nativo.md",
     "01-ordenador/software/aplicacion/interprete-del-navegador.md",
@@ -208,7 +208,6 @@
     "01-ordenador/software/aplicacion/sensor.md",
     "01-ordenador/software/aplicacion/lenguaje-de-programacion-web.md",
     "01-ordenador/software/aplicacion/servidor-web.md",
-    "01-ordenador/software/aplicacion/protocolo-http.md",
     "_control/XXQYRKFV",
     "XXbL4ieQ",
     "XXjkNVqK",
