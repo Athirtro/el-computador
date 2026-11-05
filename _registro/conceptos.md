@@ -889,3 +889,15 @@
 - Alias: intérprete JavaScript del navegador, browser interpreter
 - Cubre: ejecuta código en navegador
 - No cubre: sintaxis javascript
+
+## componente-web-incorporado
+- Nota canónica: [[componente-web-incorporado]]
+- Alias: componente web incorporado, vista web incorporada
+- Cubre: vista web embebida, motor navegador incrustado
+- No cubre: [[navegador-web]] completo
+
+## puente-nativo
+- Nota canónica: [[puente-nativo]]
+- Alias: puente nativo, native bridge
+- Cubre: traduce peticiones web→sistema
+- No cubre: detalle componente web

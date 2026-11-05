@@ -221,8 +221,8 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[javascript]] — borrador (lenguaje en navegador)
 - [[modelo-de-objetos-del-documento]] — borrador (árbol vivo DOM)
 - [[interprete-del-navegador]] — borrador (ejecuta código)
-- [[componente-web-incorporado]] — pendiente
-- [[puente-nativo]] — pendiente
+- [[componente-web-incorporado]] — borrador (vista web embebida)
+- [[puente-nativo]] — borrador (traductor web→sistema)
 - [[aplicacion-nativa-pura]] — pendiente
 - [[gestion-de-energia-movil]] — pendiente
 - [[escritorio-superficie]] — pendiente

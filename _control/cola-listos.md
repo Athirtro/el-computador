@@ -138,3 +138,5 @@
 250. [[javascript]] — prerequisitos: [lenguaje-de-programacion-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 251. [[modelo-de-objetos-del-documento]] — prerequisitos: [javascript] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 252. [[interprete-del-navegador]] — prerequisitos: [javascript] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+253. [[componente-web-incorporado]] — prerequisitos: [aplicacion-hibrida] → conduce_a: [puente-nativo] (borrador entregado, con FTE-0001/0002)
+254. [[puente-nativo]] — prerequisitos: [componente-web-incorporado] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
