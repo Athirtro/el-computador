@@ -108,3 +108,8 @@
 216. [[servidor]] — prerequisitos: [cliente-servidor] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 217. [[sesion]] — prerequisitos: [seguridad-aplicacion-con-red] → conduce_a: [autorizacion] (borrador entregado, con FTE-0001/0002)
 218. [[autorizacion]] — prerequisitos: [sesion] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+219. [[lenguaje-de-descripcion-de-documentos]] — prerequisitos: [navegador-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+220. [[pestana-de-navegador]] — prerequisitos: [navegador-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+221. [[protocolos-de-la-web]] — prerequisitos: [navegador-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+222. [[codec]] — prerequisitos: [reproductor-multimedia] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+223. [[manejador-de-eventos]] — prerequisitos: [eventos-de-interfaz] → conduce_a: [] (borrador entregado, con FTE-0001/0002)

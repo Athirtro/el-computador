@@ -709,3 +709,33 @@
 - Alias: authorization
 - Cubre: permiso en sesión, denegación
 - No cubre: [[autenticacion]]
+
+## lenguaje-de-descripcion-de-documentos
+- Nota canónica: [[lenguaje-de-descripcion-de-documentos]]
+- Alias: lenguaje de marcado, markup language
+- Cubre: descripción estructurada, papel título/párrafo/enlace
+- No cubre: protocolos web, sintaxis concreta
+
+## pestana-de-navegador
+- Nota canónica: [[pestana-de-navegador]]
+- Alias: pestaña del navegador, tab
+- Cubre: documento independiente en misma ventana
+- No cubre: protocolos web
+
+## protocolos-de-la-web
+- Nota canónica: [[protocolos-de-la-web]]
+- Alias: protocolos de la web, web protocols
+- Cubre: HTTP petición/respuesta
+- No cubre: lenguaje descripción
+
+## codec
+- Nota canónica: [[codec]]
+- Alias: códec, codec, codificador-decodificador
+- Cubre: compresión con/sin pérdida, contenedor vs códec
+- No cubre: sincronía audio/vídeo
+
+## manejador-de-eventos
+- Nota canónica: [[manejador-de-eventos]]
+- Alias: manejador del evento, respuesta, callback
+- Cubre: respuesta/callback, registro/orden
+- No cubre: detalle widget

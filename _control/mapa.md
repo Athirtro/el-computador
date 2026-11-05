@@ -185,3 +185,10 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[servidor]] — borrador (escucha/atiende/responde)
 - [[sesion]] — borrador (periodo autenticado)
 - [[autorizacion]] — borrador (permiso en sesión)
+
+## Aplicación - Lote E (5 huecos)
+- [[lenguaje-de-descripcion-de-documentos]] — borrador (marco)
+- [[pestana-de-navegador]] — borrador (tab)
+- [[protocolos-de-la-web]] — borrador (HTTP petición/respuesta)
+- [[codec]] — borrador (compresión con/sin pérdida)
+- [[manejador-de-eventos]] — borrador (respuesta/callback)
