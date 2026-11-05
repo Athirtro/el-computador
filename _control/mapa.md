@@ -192,3 +192,25 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[protocolos-de-la-web]] — borrador (HTTP petición/respuesta)
 - [[codec]] — borrador (compresión con/sin pérdida)
 - [[manejador-de-eventos]] — borrador (respuesta/callback)
+
+## Aplicación - 14 huecos A-E (S-A2)
+- [[direccion-web]] — pendiente
+- [[protocolo-http]] — pendiente
+- [[servidor-web]] — pendiente
+- [[lenguaje-de-programacion-web]] — pendiente
+- [[aplicacion-nativa]] — pendiente
+- [[aplicacion-hibrida]] — pendiente
+- [[sistema-operativo-movil]] — pendiente
+- [[pantalla-tactil]] — pendiente
+- [[sensor]] — pendiente
+- [[dispositivo-movil]] — pendiente
+- [[entorno-de-escritorio]] — pendiente
+- [[propagacion-de-eventos]] — pendiente
+- [[primitiva-grafica]] — pendiente
+- [[dibuixado-en-pantalla]] — pendiente
+- [[contenedor-multimedia]] — pendiente
+- [[compresion-de-datos]] — pendiente
+- [[formato-de-documento]] — pendiente
+- [[certificados-digitales]] — pendiente
+- [[criptografia-clave]] — pendiente
+- [[confidencialidad-integridad]] — pendiente
