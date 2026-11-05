@@ -17,9 +17,9 @@
 - Memoria
   - [[memoria-ram]] — pendiente (legado: `La memoria.md`)
   - [[memoria-cache]] — pendiente
-  - [[memoria-virtual]] — pendiente (legado: `Memoria virtual.md`)
-  - [[espacio-de-usuario]] — pendiente (legado: `Espacio de usuario.md`)
-  - [[espacio-de-kernel]] — pendiente (legado: `Espacio de Kernel.md`)
+  - [[memoria-virtual]] — borrador (legado en hardware, rama software)
+  - [[espacio-de-usuario]] — borrador (no privilegiado)
+  - [[espacio-de-kernel]] — borrador (privilegiado)
   - [[bus-de-memoria]] — pendiente
 - Almacenamiento
   - [[almacenamiento]] — pendiente
@@ -65,8 +65,11 @@
   - [[formatos-de-archivos]] — borrador (representación en disco)
   - [[memoria-virtual]] — borrador (espacio ampliado)
   - [[proceso]] — borrador (programa en ejecución)
-  - [[llamadas-al-sistema]] — pendiente
-  - [[interrupciones]] — pendiente
+  - [[planificador]] — borrador (política de turnos)
+  - [[cambio-de-contexto]] — borrador (guardar/cargar estado)
+  - [[llamadas-al-sistema]] — borrador (petición-respuesta)
+  - [[paginacion]] — borrador (páginas fijas)
+  - [[segmentacion]] — borrador (segmentos variables)
   - [[herramientas-de-sistema]] — borrador (diagnóstico, shell, backup)
   - [[cargador-de-arranque]] — borrador (puente BIOS/UEFI → SO)
   - [[tipos-de-sistema-de-archivos]] — borrador (ext4/NTFS/FAT32)
