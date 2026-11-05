@@ -80,13 +80,13 @@
   - [[cola-fifo]] — borrador (FIFO)
   - [[arbol]] — borrador (jerarquía)
   - [[tabla-hash]] — borrador (clave)
-  - [[tabla-de-paginas]] — pendiente
-  - [[fallo-de-pagina]] — pendiente
-  - [[funcion-de-dispersion]] — pendiente
-  - [[colision-en-tabla-hash]] — pendiente
-  - [[usuario-de-sistema]] — pendiente
-  - [[shell]] — pendiente
-  - [[copia-de-seguridad]] — pendiente
+  - [[tabla-de-paginas]] — borrador (correspondencia)
+  - [[fallo-de-pagina]] — borrador (carga bajo demanda)
+  - [[funcion-de-dispersion]] — borrador (clave→posición)
+  - [[colision-en-tabla-hash]] — borrador (dos claves misma posición)
+  - [[usuario-de-sistema]] — borrador (cuenta, grupos)
+  - [[shell]] — borrador (intérprete de órdenes)
+  - [[copia-de-seguridad]] — borrador (completa/incremental/diferencial)
   - [[diagnostico-de-sistema]] — pendiente
   - [[hilos-concurrencia]] — pendiente
   - [[multitarea]] — pendiente

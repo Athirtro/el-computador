@@ -60,3 +60,10 @@
 27. [[fisica-cuantica-del-solido]] — prerequisitos: [bandas-de-energia] → conduce_a: [silicio-dopado]
 28. [[silicio-dopado]] — prerequisitos: [fisica-cuantica-del-solido] → conduce_a: [] (cierre de la escalera)
 # Resto de [[memoria-ram]], [[almacenamiento]], [[placa-base]], [[buses]], resto de software malicioso y periféricos se añaden a cola tras validar mapa.
+8s. [[tabla-de-paginas]] — prerequisitos: [paginacion] → conduce_a: [fallo-de-pagina] (borrador entregado, con FTE-0001/0002)
+8t. [[fallo-de-pagina]] — prerequisitos: [paginacion] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+8u. [[funcion-de-dispersion]] — prerequisitos: [tabla-hash] → conduce_a: [colision-en-tabla-hash] (borrador entregado, sin fuentes)
+8v. [[colision-en-tabla-hash]] — prerequisitos: [tabla-hash] → conduce_a: [] (borrador entregado, sin fuentes)
+8w. [[usuario-de-sistema]] — prerequisitos: [permisos-de-archivos] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+8x. [[shell]] — prerequisitos: [herramientas-de-sistema] → conduce_a: [] (borrador entregado, con FTE-0002)
+8y. [[copia-de-seguridad]] — prerequisitos: [herramientas-de-sistema] → conduce_a: [] (borrador entregado, sin fuentes)
