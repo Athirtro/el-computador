@@ -97,3 +97,7 @@
 205. [[navegador-web]] — prerequisitos: [aplicacion-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 206. [[reproductor-multimedia]] — prerequisitos: [software-de-aplicacion] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 207. [[gestor-de-archivos-grafico]] — prerequisitos: [aplicacion-grafica] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+208. [[ventana]] — prerequisitos: [aplicacion-grafica] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+209. [[widget]] — prerequisitos: [ventana] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+210. [[interfaz-grafica-de-usuario]] — prerequisitos: [aplicacion-grafica] → conduce_a: [ventana] (borrador entregado, con FTE-0001/0002)
+211. [[eventos-de-interfaz]] — prerequisitos: [widget] → conduce_a: [] (borrador entregado, con FTE-0001/0002)

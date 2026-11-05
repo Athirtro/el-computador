@@ -174,11 +174,11 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[navegador-web]] — borrador (interpretar/presentar)
 - [[reproductor-multimedia]] — borrador (audio/vídeo sincronizado)
 - [[gestor-de-archivos-grafico]] — borrador (navegación jerárquica)
-- [[ventana]] — pendiente
-- [[widget]] — pendiente
-- [[interfaz-grafica-de-usuario]] — pendiente
+- [[ventana]] — borrador (rectángulo delimitado)
+- [[widget]] — borrador (control en ventana)
+- [[interfaz-grafica-de-usuario]] — borrador (conjunto elementos)
 - [[gestion-de-ventanas]] — pendiente
-- [[eventos-de-interfaz]] — pendiente
+- [[eventos-de-interfaz]] — borrador (notificación usuario→app)
 - [[red-de-computadores]] — pendiente
 - [[protocolo-de-red]] — pendiente
 - [[cliente-servidor]] — pendiente

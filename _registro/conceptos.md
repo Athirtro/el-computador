@@ -643,3 +643,27 @@
 - Alias: gestor de archivos gráfico, explorador de archivos, file manager
 - Cubre: navegación jerárquica gráfica
 - No cubre: sistema-de-archivos detalle
+
+## ventana
+- Nota canónica: [[ventana]]
+- Alias: ventana, window
+- Cubre: rectángulo delimitado, marco, barra de título
+- No cubre: [[gestion-de-ventanas]]
+
+## widget
+- Nota canónica: [[widget]]
+- Alias: control gráfico, widget
+- Cubre: control en ventana (botón, campo)
+- No cubre: [[eventos-de-interfaz]]
+
+## interfaz-grafica-de-usuario
+- Nota canónica: [[interfaz-grafica-de-usuario]]
+- Alias: interfaz gráfica de usuario, graphical user interface, GUI
+- Cubre: conjunto elementos visuales
+- No cubre: [[ventana]]
+
+## eventos-de-interfaz
+- Nota canónica: [[eventos-de-interfaz]]
+- Alias: evento de interfaz, evento
+- Cubre: notificación usuario→app
+- No cubre: [[interrupciones]]
