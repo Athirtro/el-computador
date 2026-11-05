@@ -2,7 +2,6 @@
 
 1. [[ordenador]] — prerequisitos: [] → conduce_a: [software, hardware]
 3. [[hardware]] — prerequisitos: [ordenador] → conduce_a: [procesador, memoria-ram]
-8g. [[interrupciones]] — prerequisitos: [llamadas-al-sistema] → conduce_a: []
 8k. [[permisos-de-archivos]] — prerequisitos: [sistema-de-archivos] → conduce_a: []
 8l. [[journaling]] — prerequisitos: [tipos-de-sistema-de-archivos] → conduce_a: []
 8o. [[pila]] — prerequisitos: [estructuras-de-datos] → conduce_a: []
@@ -30,7 +29,6 @@
 28. [[silicio-dopado]] — prerequisitos: [fisica-cuantica-del-solido] → conduce_a: [] (cierre de la escalera)
 8af. [[sincronizacion-de-hilos]] — prerequisitos: [hilos-concurrencia] → conduce_a: [] (nuevo S-7)
 8ag. [[multitarea-cooperativa]] — prerequisitos: [multitarea] → conduce_a: []
-8ah. [[multitarea-preventiva]] — prerequisitos: [multitarea] → conduce_a: [interrupciones]
 8ai. [[estado-de-proceso]] — prerequisitos: [proceso] → conduce_a: []
 8aj. [[identificador-de-proceso]] — prerequisitos: [proceso] → conduce_a: []
 8ak. [[tabla-de-paginas-multinivel]] — prerequisitos: [tabla-de-paginas] → conduce_a: []
