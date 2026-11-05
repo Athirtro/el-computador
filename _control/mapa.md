@@ -87,12 +87,12 @@
   - [[usuario-de-sistema]] — borrador (cuenta, grupos)
   - [[shell]] — borrador (intérprete de órdenes)
   - [[copia-de-seguridad]] — borrador (completa/incremental/diferencial)
-  - [[diagnostico-de-sistema]] — pendiente
-  - [[hilos-concurrencia]] — pendiente
-  - [[multitarea]] — pendiente
-  - [[modo-privilegiado]] — pendiente
-  - [[comprobacion-de-consistencia]] — pendiente
-  - [[bloque-de-control-de-proceso]] — pendiente
+  - [[diagnostico-de-sistema]] — borrador (observar–comparar–localizar)
+  - [[hilos-concurrencia]] — borrador (hilos en proceso)
+  - [[multitarea]] — borrador (varios procesos a la vez)
+  - [[modo-privilegiado]] — borrador (acceso sin permiso)
+  - [[comprobacion-de-consistencia]] — borrador (fsck)
+  - [[bloque-de-control-de-proceso]] — borrador (ficha PCB)
 - Aplicación
   - [[software-de-aplicacion]] — borrador (panorama por finalidad)
   - [[aplicacion-grafica]] — borrador (GUI)
