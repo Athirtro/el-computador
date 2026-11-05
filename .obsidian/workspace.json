@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a296de7be64511dd",
+        "id": "d02779bef7a0da6d",
         "type": "tabs",
         "children": [
           {
-            "id": "cdc58754ea946f2d",
+            "id": "53670453b4f84789",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -181,8 +181,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "cdc58754ea946f2d",
+  "active": "53670453b4f84789",
   "lastOpenFiles": [
+    "_control/cola.md",
     "01-ordenador/software/sistema/gestor-de-procesos.md",
     "01-ordenador/software/sistema/gestor-de-memoria.md",
     "01-ordenador/software/sistema/controladores-drivers.md",
@@ -208,7 +209,6 @@
     "01-ordenador/software/sistema/estructuras-de-datos.md",
     "01-ordenador/hardware/espacio-de-kernel.md",
     "01-ordenador/hardware/espacio-de-usuario.md",
-    "01-ordenador/hardware/memoria-virtual.md",
     "_registro",
     "_control",
     "01-ordenador/software/malicioso",

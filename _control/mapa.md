@@ -63,6 +63,19 @@
   - [[controladores-drivers]] — borrador (traducción dispositivo)
   - [[estructuras-de-datos]] — borrador (organización en memoria)
   - [[formatos-de-archivos]] — borrador (representación en disco)
+  - [[memoria-virtual]] — pendiente → [[espacio-de-usuario]], [[espacio-de-kernel]], [[paginacion]], [[segmentacion]]
+  - [[proceso]] — pendiente → [[planificador]], [[cambio-de-contexto]]
+  - [[llamadas-al-sistema]] — pendiente
+  - [[interrupciones]] — pendiente
+  - [[herramientas-de-sistema]] — pendiente (diagnóstico, shell, backup)
+  - [[cargador-de-arranque]] — pendiente
+  - [[tipos-de-sistema-de-archivos]] — pendiente
+  - [[permisos-de-archivos]] — pendiente
+  - [[journaling]] — pendiente
+  - [[pila]] — pendiente
+  - [[cola-fifo]] — pendiente
+  - [[arbol]] — pendiente
+  - [[tabla-hash]] — pendiente
 - Aplicación
   - [[software-de-aplicacion]] — borrador (panorama por finalidad)
   - [[aplicacion-grafica]] — borrador (GUI)
