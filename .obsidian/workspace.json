@@ -181,8 +181,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "53670453b4f84789",
+  "active": "186d22d9ad2cb5cc",
   "lastOpenFiles": [
+    "01-ordenador/software/sistema/modo-no-privilegiado.md",
+    "01-ordenador/software/sistema/fat32.md",
+    "01-ordenador/software/aplicacion/seguridad-aplicacion-con-red.md",
+    "01-ordenador/software/sistema/ntfs.md",
+    "01-ordenador/software/sistema/ext4.md",
+    "01-ordenador/software/sistema/ejecucion-de-archivos.md",
     "01-ordenador/software/sistema/pila-de-llamadas.md",
     "01-ordenador/software/sistema/cuanto-de-tiempo.md",
     "01-ordenador/software/sistema/cola-de-listos.md",
@@ -203,7 +209,6 @@
     "01-ordenador/software/sistema/sustitucion-de-paginas.md",
     "01-ordenador/software/sistema/tabla-de-paginas-multinivel.md",
     "01-ordenador/software/sistema/multitarea-preventiva.md",
-    "01-ordenador/software/sistema/identificador-de-proceso.md",
     "01-ordenador/software/sistema/sed9vKoM9",
     "01-ordenador/software/sistema/sedsaPXet",
     "01-ordenador/software/sistema/sedmV2Ak2",
@@ -213,11 +218,6 @@
     "01-ordenador/software/sistema/sedRPNBMY",
     "01-ordenador/software/sistema/sedlDnv7X",
     "01-ordenador/software/sistema/sedSLkaPL",
-    "01-ordenador/software/sistema/seduRhba5",
-    "01-ordenador/software/sistema/diagnostico-de-sistema.md",
-    "01-ordenador/software/sistema/hilos-concurrencia.md",
-    "01-ordenador/software/sistema/bloque-de-control-de-proceso.md",
-    "01-ordenador/software/sistema/comprobacion-de-consistencia.md",
-    "01-ordenador/software/sistema/multitarea.md"
+    "01-ordenador/software/sistema/seduRhba5"
   ]
 }

@@ -145,10 +145,10 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[cola-de-listos]] — borrador (competidores ordenados)
 - [[cuanto-de-tiempo]] — borrador (intervalo de turno)
 - [[arbol-binario]] — borrador (2 hijos)
-- [[arbol-equilibrado]] — pendiente
-- [[modo-no-privilegiado]] — pendiente
-- [[ejecucion-de-archivos]] — pendiente
-- [[ext4]] — pendiente
-- [[ntfs]] — pendiente
-- [[fat32]] — pendiente
-- [[seguridad-aplicacion-con-red]] — pendiente
+- [[arbol-equilibrado]] — borrador (altura)
+- [[modo-no-privilegiado]] — borrador (modo usuario)
+- [[ejecucion-de-archivos]] — borrador (tercer permiso)
+- [[ext4]] — borrador (Linux, journaling)
+- [[ntfs]] — borrador (Windows, MFT)
+- [[fat32]] — borrador (compatible)
+- [[seguridad-aplicacion-con-red]] — borrador (autenticación/cifrado)
