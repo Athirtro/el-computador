@@ -18,15 +18,15 @@
 7a. [[formatos-de-archivos]] — prerequisitos: [estructuras-de-datos, sistema-de-archivos] → conduce_a: [] (borrador entregado, sin fuentes, rama terminal)
 8. [[gestor-de-procesos]] — prerequisitos: [gestion-de-recursos] → conduce_a: [] (borrador entregado, sin fuentes)
 8a. [[gestor-de-memoria]] — prerequisitos: [gestion-de-recursos] → conduce_a: [memoria-virtual] (borrador entregado, sin fuentes)
-8b. [[memoria-virtual]] — prerequisitos: [gestor-de-memoria] → conduce_a: [espacio-de-usuario, espacio-de-kernel]
-8c. [[proceso]] — prerequisitos: [gestor-de-procesos] → conduce_a: [planificador, cambio-de-contexto]
+8b. [[memoria-virtual]] — prerequisitos: [gestor-de-memoria] → conduce_a: [espacio-de-usuario, espacio-de-kernel, paginacion, segmentacion] (borrador entregado, sin fuentes)
+8c. [[proceso]] — prerequisitos: [gestor-de-procesos] → conduce_a: [planificador, cambio-de-contexto] (borrador entregado, sin fuentes)
 8d. [[planificador]] — prerequisitos: [proceso] → conduce_a: []
 8e. [[cambio-de-contexto]] — prerequisitos: [proceso] → conduce_a: []
 8f. [[llamadas-al-sistema]] — prerequisitos: [nucleo-kernel] → conduce_a: [interrupciones]
 8g. [[interrupciones]] — prerequisitos: [llamadas-al-sistema] → conduce_a: []
-8h. [[herramientas-de-sistema]] — prerequisitos: [software-de-sistema] → conduce_a: []
-8i. [[cargador-de-arranque]] — prerequisitos: [bios-uefi] → conduce_a: [sistema-operativo]
-8j. [[tipos-de-sistema-de-archivos]] — prerequisitos: [sistema-de-archivos] → conduce_a: [journaling]
+8h. [[herramientas-de-sistema]] — prerequisitos: [software-de-sistema] → conduce_a: [] (borrador entregado, rama terminal)
+8i. [[cargador-de-arranque]] — prerequisitos: [bios-uefi] → conduce_a: [sistema-operativo] (borrador entregado, sin fuentes)
+8j. [[tipos-de-sistema-de-archivos]] — prerequisitos: [sistema-de-archivos] → conduce_a: [journaling] (borrador entregado, sin fuentes)
 8k. [[permisos-de-archivos]] — prerequisitos: [sistema-de-archivos] → conduce_a: []
 8l. [[journaling]] — prerequisitos: [tipos-de-sistema-de-archivos] → conduce_a: []
 8m. [[paginacion]] — prerequisitos: [memoria-virtual] → conduce_a: []
