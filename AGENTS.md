@@ -241,3 +241,11 @@ Tras **cada modificación** del vault (crear/editar/renombrar una nota, actualiz
 4. Verificar con `git log --oneline -1` y `git status` que no quedan cambios sin subir.
 
 No se deja un cambio sin commitear ni subir. Si `push` falla por red/credenciales, avísame y deja el commit local listo.
+
+### 4.1 Cola listos y cola pendientes
+La cola vive en dos archivos en `_control/`:
+- `_control/cola-listos.md` — temas en `borrador` o a revisar. **Única fuente de conceptos enlazables**: solo los slugs de esta cola pueden usarse en frontmatter (`prerequisitos`, `conduce_a`) y en el cuerpo como `[[slug]]`.
+- `_control/cola-pendientes.md` — temas sin nota aún (`pendiente`). **Aislada**: es un archivo de referencia para el orquestador, **no un nodo del libro**. Ninguna nota enlaza a pendientes; si una nota necesita ese concepto, lo define en una línea sin enlace.
+- `_control/cola.md` es solo índice que remite a las otras dos; el orquestador la mantiene actualizada al mover temas de pendientes a listos tras redactar su borrador.
+
+**Regla:** antes de aceptar una nota, verificar que todos sus `[[...]]` están en `cola-listos.md` o `_registro/conceptos.md`. Si un `[[...]]` apunta a `cola-pendientes.md`, se rechaza por enlace basura.
