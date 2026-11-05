@@ -59,3 +59,22 @@
 103. [[instruccion-privilegiada]] — prerequisitos: [modo-privilegiado] → conduce_a: [] (hueco software S-8)
 104. [[credenciales]] — prerequisitos: [usuario-de-sistema] → conduce_a: [autenticacion]
 105. [[autenticacion]] — prerequisitos: [credenciales] → conduce_a: [] (hueco software S-8)
+200. [[aplicacion-de-escritorio]] — prerequisitos: [software-de-aplicacion] → conduce_a: [] (hueco aplicación)
+201. [[aplicacion-movil]] — prerequisitos: [software-de-aplicacion] → conduce_a: []
+202. [[aplicacion-web]] — prerequisitos: [software-de-aplicacion] → conduce_a: [navegador-web]
+203. [[aplicacion-de-consola]] — prerequisitos: [software-de-aplicacion] → conduce_a: [terminal-de-texto]
+204. [[procesador-de-texto]] — prerequisitos: [aplicacion-grafica] → conduce_a: []
+205. [[navegador-web]] — prerequisitos: [aplicacion-web] → conduce_a: []
+206. [[reproductor-multimedia]] — prerequisitos: [software-de-aplicacion] → conduce_a: []
+207. [[gestor-de-archivos-grafico]] — prerequisitos: [aplicacion-grafica] → conduce_a: []
+208. [[ventana]] — prerequisitos: [aplicacion-grafica] → conduce_a: [gestion-de-ventanas, widget]
+209. [[widget]] — prerequisitos: [ventana] → conduce_a: []
+210. [[interfaz-grafica-de-usuario]] — prerequisitos: [aplicacion-grafica] → conduce_a: [ventana]
+211. [[gestion-de-ventanas]] — prerequisitos: [ventana] → conduce_a: []
+212. [[eventos-de-interfaz]] — prerequisitos: [widget] → conduce_a: []
+213. [[red-de-computadores]] — prerequisitos: [aplicacion-con-red] → conduce_a: [protocolo-de-red]
+214. [[protocolo-de-red]] — prerequisitos: [red-de-computadores] → conduce_a: [cliente-servidor]
+215. [[cliente-servidor]] — prerequisitos: [protocolo-de-red] → conduce_a: [servidor]
+216. [[servidor]] — prerequisitos: [cliente-servidor] → conduce_a: []
+217. [[sesion]] — prerequisitos: [seguridad-aplicacion-con-red] → conduce_a: [autorizacion]
+218. [[autorizacion]] — prerequisitos: [sesion] → conduce_a: []

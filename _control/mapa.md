@@ -164,3 +164,24 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[lista-de-control-de-acceso]] — borrador (ACL)
 - [[extent]] — borrador (rango contiguo)
 - [[registro-de-eventos-detalle]] — borrador (entradas, gravedad, filtro)
+
+## Aplicación - 17 huecos A-E (S-A)
+- [[aplicacion-de-escritorio]] — pendiente
+- [[aplicacion-movil]] — pendiente
+- [[aplicacion-web]] — pendiente
+- [[aplicacion-de-consola]] — pendiente
+- [[procesador-de-texto]] — pendiente
+- [[navegador-web]] — pendiente
+- [[reproductor-multimedia]] — pendiente
+- [[gestor-de-archivos-grafico]] — pendiente
+- [[ventana]] — pendiente
+- [[widget]] — pendiente
+- [[interfaz-grafica-de-usuario]] — pendiente
+- [[gestion-de-ventanas]] — pendiente
+- [[eventos-de-interfaz]] — pendiente
+- [[red-de-computadores]] — pendiente
+- [[protocolo-de-red]] — pendiente
+- [[cliente-servidor]] — pendiente
+- [[servidor]] — pendiente
+- [[sesion]] — pendiente
+- [[autorizacion]] — pendiente
