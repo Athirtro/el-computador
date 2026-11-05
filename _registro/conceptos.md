@@ -127,3 +127,159 @@
 - Alias que deben apuntar aquí: software malicioso, malware
 - Cubre: clasificación técnica y defensa
 - No cubre (se trata en): [[malware]], [[vulnerabilidades]]
+
+## firmware
+- Nota canónica: [[firmware]]
+- Alias que deben apuntar aquí: firmware
+- Cubre: software grabado en dispositivo, arranque previo a SO
+- No cubre: [[bios-uefi]], [[controladores-drivers]]
+
+## bios-uefi
+- Nota canónica: [[bios-uefi]]
+- Alias que deben apuntar aquí: BIOS, UEFI
+- Cubre: firmware placa base, reconocimiento HW y carga SO
+- No cubre: detalle UEFI avanzado
+
+## sistema-de-archivos
+- Nota canónica: [[sistema-de-archivos]]
+- Alias que deben apuntar aquí: sistema de archivos, filesystem
+- Cubre: organización persistente, archivos y carpetas, rutas
+- No cubre: [[tipos-de-sistema-de-archivos]], [[formatos-de-archivos]]
+
+## controladores-drivers
+- Nota canónica: [[controladores-drivers]]
+- Alias que deben apuntar aquí: controladores, drivers
+- Cubre: enseñan al SO a manejar dispositivos
+- No cubre: [[firmware]]
+
+## herramientas-de-sistema
+- Nota canónica: [[herramientas-de-sistema]]
+- Alias que deben apuntar aquí: herramientas de sistema, utilidades de sistema
+- Cubre: diagnóstico, backup, shell
+- No cubre: [[shell]], [[copia-de-seguridad]]
+
+## cargador-de-arranque
+- Nota canónica: [[cargador-de-arranque]]
+- Alias que deben apuntar aquí: cargador de arranque, boot loader, gestor de arranque
+- Cubre: puente BIOS/UEFI → SO, carga SO en memoria
+- No cubre: [[bios-uefi]], cargadores de programas
+
+## tipos-de-sistema-de-archivos
+- Nota canónica: [[tipos-de-sistema-de-archivos]]
+- Alias que deben apuntar aquí: tipos de sistema de archivos, filesystem types
+- Cubre: ext4, NTFS, FAT32 generales
+- No cubre: [[journaling]], [[permisos-de-archivos]]
+
+## permisos-de-archivos
+- Nota canónica: [[permisos-de-archivos]]
+- Alias que deben apuntar aquí: permisos de archivo, file permissions
+- Cubre: quién puede leer/escribir, propietario
+- No cubre: [[tipos-de-sistema-de-archivos]]
+
+## journaling
+- Nota canónica: [[journaling]]
+- Alias que deben apuntar aquí: diario de cambios, journaling
+- Cubre: diario de cambios para consistencia ante corte
+- No cubre: detalle ext4/NTFS interno
+
+## gestor-de-procesos
+- Nota canónica: [[gestor-de-procesos]]
+- Alias que deben apuntar aquí: gestor de procesos, process scheduler
+- Cubre: turnos CPU, prioridades
+- No cubre: [[proceso]], [[gestion-de-recursos]]
+
+## gestor-de-memoria
+- Nota canónica: [[gestor-de-memoria]]
+- Alias que deben apuntar aquí: gestor de memoria, memory manager
+- Cubre: reparto memoria entre programas, recuperación
+- No cubre: [[memoria-virtual]]
+
+## proceso
+- Nota canónica: [[proceso]]
+- Alias que deben apuntar aquí: proceso, process
+- Cubre: programa en ejecución con estado propio
+- No cubre: [[planificador]], [[cambio-de-contexto]]
+
+## planificador
+- Nota canónica: [[planificador]]
+- Alias que deben apuntar aquí: planificador, scheduler
+- Cubre: política de ordenación de turnos
+- No cubre: [[cambio-de-contexto]]
+
+## cambio-de-contexto
+- Nota canónica: [[cambio-de-contexto]]
+- Alias que deben apuntar aquí: cambio de contexto, context switch
+- Cubre: guardar/cargar estado al pasar procesos
+- No cubre: [[planificador]]
+
+## llamadas-al-sistema
+- Nota canónica: [[llamadas-al-sistema]]
+- Alias que deben apuntar aquí: system calls
+- Cubre: petición-respuesta programa→núcleo
+- No cubre: [[interrupciones]]
+
+## interrupciones
+- Nota canónica: [[interrupciones]]
+- Alias que deben apuntar aquí: interrupt
+- Cubre: señal hardware que suspende y cede control
+- No cubre: detalle registros
+
+## paginacion
+- Nota canónica: [[paginacion]]
+- Alias que deben apuntar aquí: paginación, paging
+- Cubre: páginas fijas, tabla por programa, traducción
+- No cubre: [[segmentacion]]
+
+## segmentacion
+- Nota canónica: [[segmentacion]]
+- Alias que deben apuntar aquí: segmentación, segmentation
+- Cubre: segmentos variables
+- No cubre: [[paginacion]]
+
+## pila
+- Nota canónica: [[pila]]
+- Alias que deben apuntar aquí: pila LIFO
+- Cubre: LIFO, inserción/eliminación por cima
+- No cubre: [[cola-fifo]], [[arbol]]
+
+## cola-fifo
+- Nota canónica: [[cola-fifo]]
+- Alias que deben apuntar aquí: cola FIFO, first in, first out
+- Cubre: FIFO, orden de llegada
+- No cubre: [[pila]]
+
+## arbol
+- Nota canónica: [[arbol]]
+- Alias que deben apuntar aquí: árbol
+- Cubre: jerarquía padre/hijos/raíz/hojas
+- No cubre: [[tabla-hash]]
+
+## tabla-hash
+- Nota canónica: [[tabla-hash]]
+- Alias que deben apuntar aquí: tabla hash, tabla de dispersión, hash table
+- Cubre: búsqueda por clave con dispersión
+- No cubre: colisiones detalle
+
+## aplicacion-grafica
+- Nota canónica: [[aplicacion-grafica]]
+- Alias que deben apuntar aquí: aplicación gráfica, graphical application
+- Cubre: GUI, ventana, editor como ejemplo
+- No cubre: [[aplicacion-con-red]]
+
+## aplicacion-con-red
+- Nota canónica: [[aplicacion-con-red]]
+- Alias que deben apuntar aquí: aplicación en red, aplicación de red, network application
+- Cubre: cliente-servidor, red mínima
+- No cubre: [[aplicacion-grafica]]
+
+## malware
+- Nota canónica: [[malware]]
+- Alias que deben apuntar aquí: programa malicioso, código malicioso
+- Cubre: clasificación por propagación/ocultamiento/objetivo
+- No cubre: [[vulnerabilidades]], [[exploits]]
+
+## vulnerabilidades
+- Nota canónica: [[vulnerabilidades]]
+- Alias que deben apuntar aquí: vulnerabilidad, vulnerability
+- Cubre: defectos que permiten uso no previsto
+- No cubre: [[exploits]], [[malware]]
