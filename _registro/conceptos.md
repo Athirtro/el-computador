@@ -361,3 +361,171 @@
 - Alias que deben apuntar aquí: bloque de control de proceso, process control block, PCB
 - Cubre: ficha PCB, estado guardable
 - No cubre: [[planificador]]
+
+## sincronizacion-de-hilos
+- Nota canónica: [[sincronizacion-de-hilos]]
+- Alias: sincronización, synchronization, coordinación de hilos
+- Cubre: exclusión mutua, cerrojo/semáforo
+- No cubre: [[multitarea]]
+
+## multitarea-cooperativa
+- Nota canónica: [[multitarea-cooperativa]]
+- Alias: multitarea cooperativa, cooperative multitasking
+- Cubre: cesión voluntaria procesador
+- No cubre: [[multitarea-preventiva]]
+
+## multitarea-preventiva
+- Nota canónica: [[multitarea-preventiva]]
+- Alias: multitarea preventiva, preemptive multitasking
+- Cubre: interrupción forzada por núcleo
+- No cubre: [[multitarea-cooperativa]]
+
+## estado-de-proceso
+- Nota canónica: [[estado-de-proceso]]
+- Alias: estado de proceso, process state
+- Cubre: listo/ejecución/bloqueado
+- No cubre: [[planificador]]
+
+## identificador-de-proceso
+- Nota canónica: [[identificador-de-proceso]]
+- Alias: identificador de proceso, process identifier, PID
+- Cubre: PID único entre vivos
+- No cubre: [[bloque-de-control-de-proceso]]
+
+## tabla-de-paginas-multinivel
+- Nota canónica: [[tabla-de-paginas-multinivel]]
+- Alias: tabla de páginas multinivel, multi-level page table
+- Cubre: tablas intermedias que indexan tablas
+- No cubre: [[tlb]]
+
+## sustitucion-de-paginas
+- Nota canónica: [[sustitucion-de-paginas]]
+- Alias: sustitución de páginas, page replacement
+- Cubre: víctima óptima/FIFO/LRU, limpia vs modificada
+- No cubre: [[tabla-de-paginas]]
+
+## tlb
+- Nota canónica: [[tlb]]
+- Alias: TLB, translation lookaside buffer
+- Cubre: caché traducciones
+- No cubre: [[tabla-de-paginas]]
+
+## entrada-de-pagina
+- Nota canónica: [[entrada-de-pagina]]
+- Alias: entrada de página, page table entry
+- Cubre: marco + bits por entrada
+- No cubre: [[tlb]]
+
+## bit-de-presencia
+- Nota canónica: [[bit-de-presencia]]
+- Alias: bit de presencia, bit de validez, present bit
+- Cubre: presencia/validez
+- No cubre: [[tlb]]
+
+## encadenamiento-en-tabla-hash
+- Nota canónica: [[encadenamiento-en-tabla-hash]]
+- Alias: encadenamiento, separate chaining
+- Cubre: listas por posición
+- No cubre: [[sondeo-en-tabla-hash]]
+
+## sondeo-en-tabla-hash
+- Nota canónica: [[sondeo-en-tabla-hash]]
+- Alias: direccionamiento abierto, open addressing
+- Cubre: siguiente posición libre
+- No cubre: [[encadenamiento-en-tabla-hash]]
+
+## inodo
+- Nota canónica: [[inodo]]
+- Alias: inode
+- Cubre: metadatos por archivo
+- No cubre: [[mapa-de-bloques-libres]]
+
+## mapa-de-bloques-libres
+- Nota canónica: [[mapa-de-bloques-libres]]
+- Alias: mapa de bloques libres, free block bitmap
+- Cubre: tabla bloques ocupados/libres
+- No cubre: [[inodo]]
+
+## registro-de-eventos
+- Nota canónica: [[registro-de-eventos]]
+- Alias: registro de eventos, event log
+- Cubre: historia cronológica para diagnóstico
+- No cubre: detalle herramientas
+
+## terminal-de-texto
+- Nota canónica: [[terminal-de-texto]]
+- Alias: terminal, consola de texto
+- Cubre: superficie texto para shell
+- No cubre: [[shell]]
+
+## registro-de-usuarios
+- Nota canónica: [[registro-de-usuarios]]
+- Alias: base de datos de usuarios, user database
+- Cubre: persistencia cuentas/grupos
+- No cubre: [[permisos-de-archivos]]
+
+## pila-de-llamadas
+- Nota canónica: [[pila-de-llamadas]]
+- Alias: pila de ejecución, call stack
+- Cubre: marcos, retorno, desbordamiento
+- No cubre: [[pila]]
+
+## cola-de-listos
+- Nota canónica: [[cola-de-listos]]
+- Alias: cola de listos, ready queue
+- Cubre: competidores ordenados para planificador
+- No cubre: [[cuanto-de-tiempo]]
+
+## cuanto-de-tiempo
+- Nota canónica: [[cuanto-de-tiempo]]
+- Alias: cuanto de tiempo, time slice
+- Cubre: intervalo de turno en rotativo
+- No cubre: [[planificador]]
+
+## arbol-binario
+- Nota canónica: [[arbol-binario]]
+- Alias: árbol binario, binary tree
+- Cubre: 2 hijos izquierdo/derecho
+- No cubre: [[arbol-equilibrado]]
+
+## arbol-equilibrado
+- Nota canónica: [[arbol-equilibrado]]
+- Alias: árbol equilibrado, balanced tree
+- Cubre: altura acotada
+- No cubre: detalle rotaciones
+
+## modo-no-privilegiado
+- Nota canónica: [[modo-no-privilegiado]]
+- Alias: modo no privilegiado, user mode, modo usuario
+- Cubre: modo usuario
+- No cubre: [[modo-privilegiado]]
+
+## ejecucion-de-archivos
+- Nota canónica: [[ejecucion-de-archivos]]
+- Alias: permiso de ejecución, execute permission
+- Cubre: tercer permiso, ejecutar frente a leer
+- No cubre: [[permisos-de-archivos]]
+
+## ext4
+- Nota canónica: [[ext4]]
+- Alias: sistema de archivos ext4, fourth extended filesystem
+- Cubre: ext4 Linux, grandes, journaling
+- No cubre: [[ntfs]], [[fat32]]
+
+## ntfs
+- Nota canónica: [[ntfs]]
+- Alias: sistema de archivos NTFS, New Technology File System
+- Cubre: NTFS Windows, MFT
+- No cubre: [[ext4]]
+
+## fat32
+- Nota canónica: [[fat32]]
+- Alias: File Allocation Table 32
+- Cubre: FAT32 compatible, límite 4GB
+- No cubre: [[ext4]], [[ntfs]]
+
+## seguridad-aplicacion-con-red
+- Nota canónica: [[seguridad-aplicacion-con-red]]
+- Alias: seguridad en aplicación de red, seguridad en red a nivel de aplicación
+- Cubre: autenticación/cifrado en tránsito
+- No cubre: [[defensa-malware]]
