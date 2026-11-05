@@ -184,4 +184,4 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[cliente-servidor]] — borrador (papeles)
 - [[servidor]] — borrador (escucha/atiende/responde)
 - [[sesion]] — borrador (periodo autenticado)
-- [[autorizacion]] — pendiente
+- [[autorizacion]] — borrador (permiso en sesión)

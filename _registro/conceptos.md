@@ -703,3 +703,9 @@
 - Alias: sesión de usuario, session
 - Cubre: periodo autenticado con identificador
 - No cubre: [[autorizacion]]
+
+## autorizacion
+- Nota canónica: [[autorizacion]]
+- Alias: authorization
+- Cubre: permiso en sesión, denegación
+- No cubre: [[autenticacion]]

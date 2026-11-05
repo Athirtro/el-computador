@@ -107,3 +107,4 @@
 215. [[cliente-servidor]] — prerequisitos: [protocolo-de-red] → conduce_a: [servidor] (borrador entregado, con FTE-0001/0002)
 216. [[servidor]] — prerequisitos: [cliente-servidor] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 217. [[sesion]] — prerequisitos: [seguridad-aplicacion-con-red] → conduce_a: [autorizacion] (borrador entregado, con FTE-0001/0002)
+218. [[autorizacion]] — prerequisitos: [sesion] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
