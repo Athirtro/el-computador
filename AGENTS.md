@@ -188,6 +188,7 @@ Para cada tema de `_control/cola.md`, en orden:
 5. **Revisar la entrega** con la lista de comprobación de la sección 11.
 6. **Actualizar** `mapa.md`, `conceptos.md`, `fuentes.md`, `00-indice.md` y `cola.md`.
 7. **Añadir a la cola** los nuevos conceptos que hayan aparecido como prerequisitos o como `conduce_a`.
+8. **Versionar y subir** a GitHub según §14.
 
 Puedes lanzar varios subagentes en paralelo siempre que los temas asignados no compartan prerequisitos pendientes ni conceptos sin registrar. Antes de paralelizar, asegúrate de que no van a crear la misma nota.
 
@@ -229,3 +230,14 @@ El libro se considera completo cuando:
 2. Revisa el árbol de la sección 3 y complétalo hasta el nivel de componente concreto (por ejemplo, dentro de hardware: CPU, RAM, almacenamiento, placa base, buses, etc.), sin entrar aún a redactar.
 3. Propón el mapa completo en `_control/mapa.md` y el orden de lectura inicial en `00-indice.md`.
 4. Antes de redactar ninguna nota, **espera mi validación** del mapa y del orden. Señala cualquier decisión de alcance que requiera mi criterio.
+5. Tras cada modificación (nota, mapa, índice, registro o cola), **ajusta la versión del libro**: commit y subida a GitHub según §14.
+
+## 14. Versionado y GitHub
+
+Tras **cada modificación** del vault (crear/editar/renombrar una nota, actualizar `mapa.md`, `00-indice.md`, `cola.md`, `conceptos.md`, `fuentes.md` o `decisiones.md`), el orquestador **debe** versionar el libro:
+1. `git add -A && git status --short` — verificar qué cambia.
+2. `git commit -m "<tipo>(<slug>): <descripción breve>"` — p. ej. `docs(ordenador): migrar nota legada a slug canónico` o `docs(mapa): añadir cadena física`.
+3. `git push origin main` — subir a `https://github.com/Athirtro/el-computador`.
+4. Verificar con `git log --oneline -1` y `git status` que no quedan cambios sin subir.
+
+No se deja un cambio sin commitear ni subir. Si `push` falla por red/credenciales, avísame y deja el commit local listo.
