@@ -529,3 +529,9 @@
 - Alias: seguridad en aplicación de red, seguridad en red a nivel de aplicación
 - Cubre: autenticación/cifrado en tránsito
 - No cubre: [[defensa-malware]]
+
+## arbol-equilibrado
+- Nota canónica: [[arbol-equilibrado]]
+- Alias: árbol equilibrado, balanced tree
+- Cubre: altura acotada
+- No cubre: detalle rotaciones
