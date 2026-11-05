@@ -122,3 +122,33 @@
 [[ordenador]] → [[hardware]] → [[procesador]] → [[arquitectura-x86-64]] → [[ciclo-de-ejecucion]] → [[registros-y-unidad-de-control]] → [[unidad-aritmetico-logica-alu]] → [[circuitos-combinacionales]] → [[circuitos-secuenciales]] → [[puertas-logicas]] → [[algebra-de-boole]] → [[transistor-mosfet]] → [[transistor-como-interruptor]] → [[semiconductores]] → [[bandas-de-energia]] → [[fisica-cuantica-del-solido]] → [[silicio-dopado]]
 
 Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] → [[gestion-de-recursos]] → [[memoria-virtual]] → [[espacio-de-usuario]] / [[espacio-de-kernel]] → [[lenguajes-de-programacion]] → [[compilacion]] → [[lenguaje-ensamblador]] → [[codigo-maquina]] → [[conjunto-de-instrucciones-isa]] → ... (física)
+
+## 2b. Sistema - expansión S-7 (auditoría)
+- [[sincronizacion-de-hilos]] — pendiente
+- [[multitarea-cooperativa]] — pendiente
+- [[multitarea-preventiva]] — pendiente
+- [[estado-de-proceso]] — pendiente
+- [[identificador-de-proceso]] — pendiente
+- [[tabla-de-paginas-multinivel]] — pendiente
+- [[sustitucion-de-paginas]] — pendiente
+- [[tlb]] — pendiente
+- [[entrada-de-pagina]] — pendiente
+- [[bit-de-presencia]] — pendiente
+- [[encadenamiento-en-tabla-hash]] — pendiente
+- [[sondeo-en-tabla-hash]] — pendiente
+- [[inodo]] — pendiente
+- [[mapa-de-bloques-libres]] — pendiente
+- [[registro-de-eventos]] — pendiente
+- [[terminal-de-texto]] — pendiente
+- [[registro-de-usuarios]] — pendiente
+- [[pila-de-llamadas]] — pendiente
+- [[cola-de-listos]] — pendiente
+- [[cuanto-de-tiempo]] — pendiente
+- [[arbol-binario]] — pendiente
+- [[arbol-equilibrado]] — pendiente
+- [[modo-no-privilegiado]] — pendiente
+- [[ejecucion-de-archivos]] — pendiente
+- [[ext4]] — pendiente
+- [[ntfs]] — pendiente
+- [[fat32]] — pendiente
+- [[seguridad-aplicacion-con-red]] — pendiente
