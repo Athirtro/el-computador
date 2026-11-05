@@ -1,0 +1,2 @@
+Referencias:
+* [[Gestión de recursos]]

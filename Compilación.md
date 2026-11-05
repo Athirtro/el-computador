@@ -1,0 +1,2 @@
+Referencias:
+* [[Lenguaje ensamblador]]
