@@ -204,10 +204,10 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[pantalla-tactil]] — borrador (entrada directa)
 - [[sensor]] — borrador (magnitud→dato)
 - [[dispositivo-movil]] — borrador (portátil batería)
-- [[entorno-de-escritorio]] — pendiente
-- [[propagacion-de-eventos]] — pendiente
-- [[primitiva-grafica]] — pendiente
-- [[dibuixado-en-pantalla]] — pendiente
+- [[entorno-de-escritorio]] — borrador (marco compartido)
+- [[propagacion-de-eventos]] — borrador (burbujeo jerarquía)
+- [[primitiva-grafica]] — borrador (forma mínima)
+- [[dibuixado-en-pantalla]] — borrador (píxeles)
 - [[contenedor-multimedia]] — pendiente
 - [[compresion-de-datos]] — pendiente
 - [[formato-de-documento]] — pendiente

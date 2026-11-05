@@ -799,3 +799,27 @@
 - Alias: dispositivo móvil, mobile device
 - Cubre: portátil batería, una mano
 - No cubre: [[pantalla-tactil]], [[sensor]]
+
+## entorno-de-escritorio
+- Nota canónica: [[entorno-de-escritorio]]
+- Alias: entorno de escritorio, desktop environment
+- Cubre: marco compartido ventanas/menús/accesos
+- No cubre: detalle ventana/widget
+
+## propagacion-de-eventos
+- Nota canónica: [[propagacion-de-eventos]]
+- Alias: propagación del evento, event bubbling
+- Cubre: burbujeo por jerarquía
+- No cubre: manejador detalle
+
+## primitiva-grafica
+- Nota canónica: [[primitiva-grafica]]
+- Alias: primitiva gráfica, graphic primitive
+- Cubre: forma mínima paramétrica
+- No cubre: dibujado detalle
+
+## dibujado-en-pantalla
+- Nota canónica: [[dibuixado-en-pantalla]]
+- Alias: dibujo en pantalla, renderizado
+- Cubre: píxeles, composición, búfer
+- No cubre: primitiva detalle

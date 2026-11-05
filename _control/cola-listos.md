@@ -123,3 +123,7 @@
 235. [[pantalla-tactil]] — prerequisitos: [dispositivo-movil] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 236. [[sensor]] — prerequisitos: [dispositivo-movil] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 237. [[dispositivo-movil]] — prerequisitos: [aplicacion-movil] → conduce_a: [pantalla-tactil, sensor] (borrador entregado, con FTE-0001/0002)
+238. [[entorno-de-escritorio]] — prerequisitos: [aplicacion-de-escritorio] → conduce_a: [aplicacion-grafica] (borrador entregado, con FTE-0001/0002)
+239. [[propagacion-de-eventos]] — prerequisitos: [eventos-de-interfaz] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+240. [[primitiva-grafica]] — prerequisitos: [interfaz-grafica-de-usuario] → conduce_a: [dibuixado-en-pantalla] (borrador entregado, con FTE-0001/0002)
+241. [[dibuixado-en-pantalla]] — prerequisitos: [primitiva-grafica] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
