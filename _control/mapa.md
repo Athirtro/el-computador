@@ -82,7 +82,7 @@
   - [[enlazadores]] — pendiente
   - [[cargadores]] — pendiente
 - Malicioso
-  - [[software-malicioso]] — pendiente (legado: `Software malicioso.md` vacío)
+  - [[software-malicioso]] — borrador (panorama técnico/defensivo sin exploits detallados)
   - [[malware]] — pendiente
   - [[vulnerabilidades]] — pendiente
   - [[exploits]] — pendiente
