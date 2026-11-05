@@ -138,13 +138,13 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[sondeo-en-tabla-hash]] — borrador (direccionamiento abierto)
 - [[inodo]] — borrador (metadatos por archivo)
 - [[mapa-de-bloques-libres]] — borrador (bitmap/libre)
-- [[registro-de-eventos]] — pendiente
-- [[terminal-de-texto]] — pendiente
-- [[registro-de-usuarios]] — pendiente
-- [[pila-de-llamadas]] — pendiente
-- [[cola-de-listos]] — pendiente
-- [[cuanto-de-tiempo]] — pendiente
-- [[arbol-binario]] — pendiente
+- [[registro-de-eventos]] — borrador (historia cronológica)
+- [[terminal-de-texto]] — borrador (superficie texto)
+- [[registro-de-usuarios]] — borrador (persistencia cuentas)
+- [[pila-de-llamadas]] — borrador (marcos, retorno, overflow)
+- [[cola-de-listos]] — borrador (competidores ordenados)
+- [[cuanto-de-tiempo]] — borrador (intervalo de turno)
+- [[arbol-binario]] — borrador (2 hijos)
 - [[arbol-equilibrado]] — pendiente
 - [[modo-no-privilegiado]] — pendiente
 - [[ejecucion-de-archivos]] — pendiente

@@ -183,6 +183,13 @@
   },
   "active": "53670453b4f84789",
   "lastOpenFiles": [
+    "01-ordenador/software/sistema/pila-de-llamadas.md",
+    "01-ordenador/software/sistema/cuanto-de-tiempo.md",
+    "01-ordenador/software/sistema/cola-de-listos.md",
+    "01-ordenador/software/sistema/terminal-de-texto.md",
+    "01-ordenador/software/sistema/registro-de-eventos.md",
+    "01-ordenador/software/sistema/registro-de-usuarios.md",
+    "01-ordenador/software/sistema/arbol-binario.md",
     "01-ordenador/software/sistema/mapa-de-bloques-libres.md",
     "01-ordenador/software/sistema/inodo.md",
     "01-ordenador/software/sistema/encadenamiento-en-tabla-hash.md",
@@ -211,13 +218,6 @@
     "01-ordenador/software/sistema/hilos-concurrencia.md",
     "01-ordenador/software/sistema/bloque-de-control-de-proceso.md",
     "01-ordenador/software/sistema/comprobacion-de-consistencia.md",
-    "01-ordenador/software/sistema/multitarea.md",
-    "01-ordenador/software/sistema/modo-privilegiado.md",
-    "01-ordenador/software/sistema/copia-de-seguridad.md",
-    "01-ordenador/software/sistema/tabla-de-paginas.md",
-    "01-ordenador/software/sistema/colision-en-tabla-hash.md",
-    "01-ordenador/software/sistema/shell.md",
-    "01-ordenador/software/sistema/fallo-de-pagina.md",
-    "01-ordenador/software/sistema/funcion-de-dispersion.md"
+    "01-ordenador/software/sistema/multitarea.md"
   ]
 }
