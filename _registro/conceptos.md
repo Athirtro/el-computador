@@ -763,3 +763,39 @@
 - Alias: lenguaje para programar en el navegador, web programming language
 - Cubre: código ejecutable en cliente web
 - No cubre: [[lenguaje-de-descripcion-de-documentos]]
+
+## aplicacion-nativa
+- Nota canónica: [[aplicacion-nativa]]
+- Alias: aplicación nativa, app nativa, native application
+- Cubre: instalada nativa en dispositivo
+- No cubre: [[aplicacion-hibrida]]
+
+## aplicacion-hibrida
+- Nota canónica: [[aplicacion-hibrida]]
+- Alias: aplicación híbrida, hybrid application
+- Cubre: envuelta web instalada
+- No cubre: [[aplicacion-web]]
+
+## sistema-operativo-movil
+- Nota canónica: [[sistema-operativo-movil]]
+- Alias: sistema operativo móvil, mobile operating system
+- Cubre: variante SO para táctil/sensores/batería
+- No cubre: [[sistema-operativo]] general
+
+## pantalla-tactil
+- Nota canónica: [[pantalla-tactil]]
+- Alias: pantalla táctil, touchscreen
+- Cubre: entrada directa, gestos
+- No cubre: sensor físico
+
+## sensor
+- Nota canónica: [[sensor]]
+- Alias: sensor
+- Cubre: magnitud física→dato
+- No cubre: [[pantalla-tactil]]
+
+## dispositivo-movil
+- Nota canónica: [[dispositivo-movil]]
+- Alias: dispositivo móvil, mobile device
+- Cubre: portátil batería, una mano
+- No cubre: [[pantalla-tactil]], [[sensor]]

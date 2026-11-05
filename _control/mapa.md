@@ -198,12 +198,12 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[protocolo-http]] — borrador (HTTP)
 - [[servidor-web]] — borrador (especialización web)
 - [[lenguaje-de-programacion-web]] — borrador (código en cliente)
-- [[aplicacion-nativa]] — pendiente
-- [[aplicacion-hibrida]] — pendiente
-- [[sistema-operativo-movil]] — pendiente
-- [[pantalla-tactil]] — pendiente
-- [[sensor]] — pendiente
-- [[dispositivo-movil]] — pendiente
+- [[aplicacion-nativa]] — borrador (instalada nativa)
+- [[aplicacion-hibrida]] — borrador (envasada web)
+- [[sistema-operativo-movil]] — borrador (variante SO)
+- [[pantalla-tactil]] — borrador (entrada directa)
+- [[sensor]] — borrador (magnitud→dato)
+- [[dispositivo-movil]] — borrador (portátil batería)
 - [[entorno-de-escritorio]] — pendiente
 - [[propagacion-de-eventos]] — pendiente
 - [[primitiva-grafica]] — pendiente
