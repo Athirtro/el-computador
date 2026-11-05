@@ -859,3 +859,33 @@
 - Alias: confidencialidad de los datos, integridad de los datos
 - Cubre: solo lee / detecta cambio
 - No cubre: criptografía detalle
+
+## protocolo-http-detalle
+- Nota canónica: [[protocolo-http-detalle]]
+- Alias: detalle del protocolo HTTP, métodos, cabeceras y estados HTTP, HTTP methods, headers and status codes
+- Cubre: métodos, cabeceras, estados
+- No cubre: [[direccion-web]]
+
+## servidor-web-detalle
+- Nota canónica: [[servidor-web-detalle]]
+- Alias: servidor web estatico y dinamico, static and dynamic web content
+- Cubre: estático/dinámico
+- No cubre: detalle protocolo
+
+## javascript
+- Nota canónica: [[javascript]]
+- Alias: JS
+- Cubre: lenguaje en navegador
+- No cubre: sintaxis concreta
+
+## modelo-de-objetos-del-documento
+- Nota canónica: [[modelo-de-objetos-del-documento]]
+- Alias: modelo de objetos del documento, document object model, DOM
+- Cubre: árbol vivo DOM
+- No cubre: sintaxis javascript
+
+## interprete-del-navegador
+- Nota canónica: [[interprete-del-navegador]]
+- Alias: intérprete JavaScript del navegador, browser interpreter
+- Cubre: ejecuta código en navegador
+- No cubre: sintaxis javascript

@@ -133,3 +133,8 @@
 245. [[certificados-digitales]] — prerequisitos: [seguridad-aplicacion-con-red] → conduce_a: [criptografia-clave] (borrador entregado, con FTE-0001/0002)
 246. [[criptografia-clave]] — prerequisitos: [certificados-digitales] → conduce_a: [confidencialidad-integridad] (borrador entregado, con FTE-0001/0002)
 247. [[confidencialidad-integridad]] — prerequisitos: [criptografia-clave] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+248. [[protocolo-http-detalle]] — prerequisitos: [protocolo-http] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+249. [[servidor-web-detalle]] — prerequisitos: [servidor-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+250. [[javascript]] — prerequisitos: [lenguaje-de-programacion-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+251. [[modelo-de-objetos-del-documento]] — prerequisitos: [javascript] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+252. [[interprete-del-navegador]] — prerequisitos: [javascript] → conduce_a: [] (borrador entregado, con FTE-0001/0002)

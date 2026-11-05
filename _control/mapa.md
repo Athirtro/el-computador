@@ -216,11 +216,11 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[confidencialidad-integridad]] — borrador (solo lee / detecta cambio)
 
 ## Aplicación - 17 huecos A-F (S-A3)
-- [[protocolo-http-detalle]] — pendiente
-- [[servidor-web-detalle]] — pendiente
-- [[javascript]] — pendiente
-- [[modelo-de-objetos-del-documento]] — pendiente
-- [[interprete-del-navegador]] — pendiente
+- [[protocolo-http-detalle]] — borrador (métodos/cabeceras/estados)
+- [[servidor-web-detalle]] — borrador (estático/dinámico)
+- [[javascript]] — borrador (lenguaje en navegador)
+- [[modelo-de-objetos-del-documento]] — borrador (árbol vivo DOM)
+- [[interprete-del-navegador]] — borrador (ejecuta código)
 - [[componente-web-incorporado]] — pendiente
 - [[puente-nativo]] — pendiente
 - [[aplicacion-nativa-pura]] — pendiente
