@@ -166,10 +166,10 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[registro-de-eventos-detalle]] — borrador (entradas, gravedad, filtro)
 
 ## Aplicación - 17 huecos A-E (S-A)
-- [[aplicacion-de-escritorio]] — pendiente
-- [[aplicacion-movil]] — pendiente
-- [[aplicacion-web]] — pendiente
-- [[aplicacion-de-consola]] — pendiente
+- [[aplicacion-de-escritorio]] — borrador (local nativa)
+- [[aplicacion-movil]] — borrador (táctil, sensores)
+- [[aplicacion-web]] — borrador (navegador/servidor)
+- [[aplicacion-de-consola]] — borrador (texto en terminal)
 - [[procesador-de-texto]] — pendiente
 - [[navegador-web]] — pendiente
 - [[reproductor-multimedia]] — pendiente

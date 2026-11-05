@@ -595,3 +595,27 @@
 - Alias: formato de entrada de registro, niveles de gravedad del registro, filtrado del registro de eventos
 - Cubre: entradas, gravedad, filtro
 - No cubre: sintaxis herramienta
+
+## aplicacion-de-escritorio
+- Nota canónica: [[aplicacion-de-escritorio]]
+- Alias: aplicación de escritorio, app de escritorio, desktop application
+- Cubre: app nativa en ordenador personal
+- No cubre: [[aplicacion-grafica]]
+
+## aplicacion-movil
+- Nota canónica: [[aplicacion-movil]]
+- Alias: aplicación móvil, mobile application, app móvil
+- Cubre: táctil, sensores, batería
+- No cubre: [[aplicacion-grafica]]
+
+## aplicacion-web
+- Nota canónica: [[aplicacion-web]]
+- Alias: aplicación web, web application
+- Cubre: navegador/servidor, petición-respuesta
+- No cubre: [[navegador-web]]
+
+## aplicacion-de-consola
+- Nota canónica: [[aplicacion-de-consola]]
+- Alias: aplicación de consola, console application, aplicación de terminal
+- Cubre: texto en terminal
+- No cubre: [[aplicacion-grafica]]

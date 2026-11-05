@@ -89,3 +89,7 @@
 107. [[lista-de-control-de-acceso]] — prerequisitos: [ntfs, permisos-de-archivos] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 108. [[extent]] — prerequisitos: [ext4] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 109. [[registro-de-eventos-detalle]] — prerequisitos: [registro-de-eventos] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+200. [[aplicacion-de-escritorio]] — prerequisitos: [software-de-aplicacion] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+201. [[aplicacion-movil]] — prerequisitos: [software-de-aplicacion] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+202. [[aplicacion-web]] — prerequisitos: [software-de-aplicacion] → conduce_a: [navegador-web] (borrador entregado, con FTE-0001/0002)
+203. [[aplicacion-de-consola]] — prerequisitos: [software-de-aplicacion] → conduce_a: [terminal-de-texto] (borrador entregado, con FTE-0001/0002)
