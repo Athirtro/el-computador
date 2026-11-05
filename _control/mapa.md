@@ -131,13 +131,13 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[identificador-de-proceso]] — borrador (PID)
 - [[tabla-de-paginas-multinivel]] — borrador (directorios)
 - [[sustitucion-de-paginas]] — borrador (víctima FIFO/LRU)
-- [[tlb]] — pendiente
-- [[entrada-de-pagina]] — pendiente
-- [[bit-de-presencia]] — pendiente
-- [[encadenamiento-en-tabla-hash]] — pendiente
-- [[sondeo-en-tabla-hash]] — pendiente
-- [[inodo]] — pendiente
-- [[mapa-de-bloques-libres]] — pendiente
+- [[tlb]] — borrador (caché traducciones)
+- [[entrada-de-pagina]] — borrador (marco + bits)
+- [[bit-de-presencia]] — borrador (presencia/validez)
+- [[encadenamiento-en-tabla-hash]] — borrador (listas por posición)
+- [[sondeo-en-tabla-hash]] — borrador (direccionamiento abierto)
+- [[inodo]] — borrador (metadatos por archivo)
+- [[mapa-de-bloques-libres]] — borrador (bitmap/libre)
 - [[registro-de-eventos]] — pendiente
 - [[terminal-de-texto]] — pendiente
 - [[registro-de-usuarios]] — pendiente
