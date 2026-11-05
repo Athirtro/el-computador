@@ -154,13 +154,13 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[seguridad-aplicacion-con-red]] — borrador (autenticación/cifrado)
 
 ## 4. Software - huecos S-8 (pendientes)
-- [[sincronizacion-entre-procesos]] — pendiente
-- [[interbloqueo]] — pendiente
-- [[manejo-de-interrupciones]] — pendiente
-- [[instruccion-privilegiada]] — pendiente
-- [[credenciales]] — pendiente
-- [[autenticacion]] — pendiente
-- [[tabla-maestra-de-archivos]] — pendiente
+- [[sincronizacion-entre-procesos]] — borrador (exclusión entre procesos)
+- [[interbloqueo]] — borrador (espera circular)
+- [[manejo-de-interrupciones]] — borrador (rutina + prioridades)
+- [[instruccion-privilegiada]] — borrador (solo modo privilegiado)
+- [[credenciales]] — borrador (secreto + custodia)
+- [[autenticacion]] — borrador (contraste identidad)
+- [[tabla-maestra-de-archivos]] — borrador (MFT)
 - [[lista-de-control-de-acceso]] — pendiente
 - [[extent]] — pendiente
 - [[registro-de-eventos-detalle]] — pendiente

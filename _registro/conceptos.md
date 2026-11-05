@@ -535,3 +535,45 @@
 - Alias: árbol equilibrado, balanced tree
 - Cubre: altura acotada
 - No cubre: detalle rotaciones
+
+## sincronizacion-entre-procesos
+- Nota canónica: [[sincronizacion-entre-procesos]]
+- Alias: coordinación entre procesos, interprocess synchronization
+- Cubre: exclusión entre procesos vía núcleo
+- No cubre: detalle interbloqueo
+
+## interbloqueo
+- Nota canónica: [[interbloqueo]]
+- Alias: deadlock, bloqueo mutuo
+- Cubre: esperas circulares, deadlock
+- No cubre: sincronización general
+
+## manejo-de-interrupciones
+- Nota canónica: [[manejo-de-interrupciones]]
+- Alias: manejador de interrupciones, interrupt handler
+- Cubre: rutina + prioridades
+- No cubre: detalle registros
+
+## instruccion-privilegiada
+- Nota canónica: [[instruccion-privilegiada]]
+- Alias: instrucción privilegiada, privileged instruction
+- Cubre: solo modo privilegiado
+- No cubre: detalle registros
+
+## credenciales
+- Nota canónica: [[credenciales]]
+- Alias: nombre de usuario y contraseña, credentials
+- Cubre: secreto + custodia
+- No cubre: [[autenticacion]]
+
+## autenticacion
+- Nota canónica: [[autenticacion]]
+- Alias: autenticación de usuario, authentication
+- Cubre: contraste identidad local/remota
+- No cubre: autorización
+
+## tabla-maestra-de-archivos
+- Nota canónica: [[tabla-maestra-de-archivos]]
+- Alias: Master File Table, MFT
+- Cubre: MFT, entradas numeradas
+- No cubre: detalle atributos
