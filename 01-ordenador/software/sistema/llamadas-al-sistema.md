@@ -8,7 +8,7 @@ prerequisitos: [nucleo-kernel]
 conduce_a: [interrupciones]
 alias: ["system calls"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Llamadas al sistema

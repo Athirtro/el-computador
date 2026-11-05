@@ -45,3 +45,12 @@
 - Usada en: [[nucleo-kernel]], [[controladores-drivers]], [[gestion-de-recursos]], [[gestor-de-memoria]]
 
 > Sin fuentes inventadas. Todas las afirmaciones técnicas deben contrastarse entre al menos dos de estos registros o con fuente primaria adicional.
+
+## FTE-0005
+- Título: Introduction to Algorithms (4ª ed.)
+- Autores / organización: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (MIT Press)
+- Tipo: libro
+- URL o ISBN: https://mitpress.mit.edu/9780262046305/introduction-to-algorithms / ISBN 9780262046305
+- Fecha de consulta: 2026-11-05
+- Fiabilidad: alta (libro de texto canónico mundial en algoritmos)
+- Usada en: [[estructuras-de-datos]], [[pila]], [[cola-fifo]], [[arbol]], [[tabla-hash]], [[funcion-de-dispersion]], [[colision-en-tabla-hash]]

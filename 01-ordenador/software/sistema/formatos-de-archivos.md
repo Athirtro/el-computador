@@ -8,7 +8,7 @@ prerequisitos: [estructuras-de-datos, sistema-de-archivos]
 conduce_a: []
 alias: ["formatos de archivo"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Formatos de archivos

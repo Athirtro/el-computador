@@ -8,7 +8,7 @@ prerequisitos: [software-de-sistema]
 conduce_a: []
 alias: ["herramientas de sistema", "utilidades de sistema"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Herramientas de sistema

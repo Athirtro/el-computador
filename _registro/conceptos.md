@@ -283,3 +283,81 @@
 - Alias que deben apuntar aquí: vulnerabilidad, vulnerability
 - Cubre: defectos que permiten uso no previsto
 - No cubre: [[exploits]], [[malware]]
+
+## tabla-de-paginas
+- Nota canónica: [[tabla-de-paginas]]
+- Alias que deben apuntar aquí: tabla de páginas, page table
+- Cubre: correspondencia página virtual → marco físico, bits presencia/protección
+- No cubre: [[fallo-de-pagina]]
+
+## fallo-de-pagina
+- Nota canónica: [[fallo-de-pagina]]
+- Alias que deben apuntar aquí: fallo de página, page fault
+- Cubre: página no cargada, traer a marco
+- No cubre: [[tabla-de-paginas]]
+
+## funcion-de-dispersion
+- Nota canónica: [[funcion-de-dispersion]]
+- Alias que deben apuntar aquí: función de dispersión, hash function
+- Cubre: clave→posición, reparto uniforme
+- No cubre: [[colision-en-tabla-hash]]
+
+## colision-en-tabla-hash
+- Nota canónica: [[colision-en-tabla-hash]]
+- Alias que deben apuntar aquí: colisión hash, hash collision
+- Cubre: dos claves misma posición, resolución
+- No cubre: [[funcion-de-dispersion]]
+
+## usuario-de-sistema
+- Nota canónica: [[usuario-de-sistema]]
+- Alias que deben apuntar aquí: cuenta de usuario, user account
+- Cubre: cuenta, grupos, propietario
+- No cubre: [[permisos-de-archivos]]
+
+## shell
+- Nota canónica: [[shell]]
+- Alias que deben apuntar aquí: intérprete de órdenes, shell
+- Cubre: órdenes texto, scripting
+- No cubre: sintaxis concreta
+
+## copia-de-seguridad
+- Nota canónica: [[copia-de-seguridad]]
+- Alias que deben apuntar aquí: copia de seguridad, backup
+- Cubre: completa/incremental/diferencial, restauración
+- No cubre: [[journaling]]
+
+## diagnostico-de-sistema
+- Nota canónica: [[diagnostico-de-sistema]]
+- Alias que deben apuntar aquí: diagnóstico de sistema, herramienta de diagnóstico
+- Cubre: observar–comparar–localizar
+- No cubre: reparación física
+
+## hilos-concurrencia
+- Nota canónica: [[hilos-concurrencia]]
+- Alias que deben apuntar aquí: hilo, thread, concurrencia
+- Cubre: hilos dentro de proceso, compartición memoria
+- No cubre: [[multitarea]]
+
+## multitarea
+- Nota canónica: [[multitarea]]
+- Alias que deben apuntar aquí: multitarea, multitasking
+- Cubre: varios procesos a la vez, cooperativa/preventiva
+- No cubre: [[hilos-concurrencia]]
+
+## modo-privilegiado
+- Nota canónica: [[modo-privilegiado]]
+- Alias que deben apuntar aquí: modo privilegiado, privileged mode, modo kernel, modo supervisor
+- Cubre: acceso sin permiso a memoria/hardware
+- No cubre: detalle registros
+
+## comprobacion-de-consistencia
+- Nota canónica: [[comprobacion-de-consistencia]]
+- Alias que deben apuntar aquí: file system check, fsck
+- Cubre: fsck, fases de comprobación
+- No cubre: [[journaling]]
+
+## bloque-de-control-de-proceso
+- Nota canónica: [[bloque-de-control-de-proceso]]
+- Alias que deben apuntar aquí: bloque de control de proceso, process control block, PCB
+- Cubre: ficha PCB, estado guardable
+- No cubre: [[planificador]]

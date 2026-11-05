@@ -8,7 +8,7 @@ prerequisitos: [proceso]
 conduce_a: []
 alias: ["planificador", "scheduler"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Planificador

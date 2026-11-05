@@ -8,7 +8,7 @@ prerequisitos: [sistema-operativo]
 conduce_a: [gestion-de-recursos]
 alias: ["kernel", "núcleo"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Núcleo (kernel)

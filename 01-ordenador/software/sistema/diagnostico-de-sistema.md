@@ -8,7 +8,7 @@ prerequisitos: [herramientas-de-sistema]
 conduce_a: []
 alias: ["diagnóstico de sistema", "herramienta de diagnóstico"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0005]
 ---
 
 # Diagnóstico de sistema

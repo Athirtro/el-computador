@@ -8,7 +8,7 @@ prerequisitos: [sistema-de-archivos]
 conduce_a: [journaling]
 alias: ["tipos de sistema de archivos", "filesystem types"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Tipos de sistema de archivos

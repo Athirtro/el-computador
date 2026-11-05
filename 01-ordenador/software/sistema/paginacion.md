@@ -8,7 +8,7 @@ prerequisitos: [memoria-virtual]
 conduce_a: []
 alias: ["paginación", "paging"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Paginación

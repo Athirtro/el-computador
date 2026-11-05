@@ -8,7 +8,7 @@ prerequisitos: [herramientas-de-sistema]
 conduce_a: []
 alias: ["copia de seguridad", "backup"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0005]
 ---
 
 # Copia de seguridad

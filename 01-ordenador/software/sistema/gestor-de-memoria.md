@@ -8,7 +8,7 @@ prerequisitos: [gestion-de-recursos]
 conduce_a: [memoria-virtual]
 alias: ["gestor de memoria", "memory manager"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Gestor de memoria

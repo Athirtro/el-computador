@@ -8,7 +8,7 @@ prerequisitos: [software-de-sistema]
 conduce_a: [bios-uefi]
 alias: ["firmware"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0003]
 ---
 
 # Firmware

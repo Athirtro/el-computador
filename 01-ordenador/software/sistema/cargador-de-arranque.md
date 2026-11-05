@@ -8,7 +8,7 @@ prerequisitos: [bios-uefi]
 conduce_a: [sistema-operativo]
 alias: ["cargador de arranque", "boot loader", "gestor de arranque"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0003]
 ---
 
 # Cargador de arranque

@@ -8,7 +8,7 @@ prerequisitos: [sistema-operativo]
 conduce_a: []
 alias: ["controladores", "drivers", "controladores de dispositivo"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0004]
 ---
 
 # Controladores (drivers)

@@ -8,7 +8,7 @@ prerequisitos: [tipos-de-sistema-de-archivos]
 conduce_a: []
 alias: ["diario de cambios", "journaling"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Journaling

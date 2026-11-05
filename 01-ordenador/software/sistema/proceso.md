@@ -8,7 +8,7 @@ prerequisitos: [gestor-de-procesos]
 conduce_a: [planificador, cambio-de-contexto]
 alias: ["proceso", "process"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Proceso

@@ -8,7 +8,7 @@ prerequisitos: [estructuras-de-datos]
 conduce_a: []
 alias: ["árbol"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002, FTE-0005]
 ---
 
 # Árbol

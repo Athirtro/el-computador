@@ -8,7 +8,7 @@ prerequisitos: [sistema-operativo]
 conduce_a: [estructuras-de-datos, formatos-de-archivos]
 alias: ["sistema de archivos", "filesystem"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Sistema de archivos

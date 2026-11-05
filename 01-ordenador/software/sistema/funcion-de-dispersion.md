@@ -8,7 +8,7 @@ prerequisitos: [tabla-hash]
 conduce_a: [colision-en-tabla-hash]
 alias: ["función de dispersión", "hash function"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0005]
 ---
 
 # Función de dispersión

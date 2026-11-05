@@ -8,7 +8,7 @@ prerequisitos: [software-de-sistema]
 conduce_a: [nucleo-kernel, sistema-de-archivos, controladores-drivers]
 alias: ["sistema operativo", "OS"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Sistema operativo

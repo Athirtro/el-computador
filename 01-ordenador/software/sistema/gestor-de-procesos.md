@@ -8,7 +8,7 @@ prerequisitos: [gestion-de-recursos]
 conduce_a: []
 alias: ["gestor de procesos", "process scheduler"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Gestor de procesos

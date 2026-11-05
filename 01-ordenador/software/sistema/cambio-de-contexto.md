@@ -8,7 +8,7 @@ prerequisitos: [proceso]
 conduce_a: []
 alias: ["cambio de contexto", "context switch"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Cambio de contexto

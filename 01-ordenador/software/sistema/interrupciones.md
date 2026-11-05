@@ -8,7 +8,7 @@ prerequisitos: [llamadas-al-sistema]
 conduce_a: []
 alias: ["interrupt"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Interrupciones

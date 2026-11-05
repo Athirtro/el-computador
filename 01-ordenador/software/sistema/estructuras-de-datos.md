@@ -8,7 +8,7 @@ prerequisitos: [sistema-operativo]
 conduce_a: [formatos-de-archivos]
 alias: ["estructuras de datos"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002, FTE-0005]
 ---
 
 # Estructuras de datos

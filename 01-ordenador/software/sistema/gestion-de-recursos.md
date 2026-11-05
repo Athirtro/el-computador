@@ -8,7 +8,7 @@ prerequisitos: [nucleo-kernel]
 conduce_a: [gestor-de-procesos, gestor-de-memoria]
 alias: ["gestión de recursos", "resource management"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Gestión de recursos

@@ -8,7 +8,7 @@ prerequisitos: [journaling]
 conduce_a: []
 alias: ["file system check", "fsck"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Comprobación de consistencia

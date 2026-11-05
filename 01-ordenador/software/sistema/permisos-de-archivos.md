@@ -8,7 +8,7 @@ prerequisitos: [sistema-de-archivos]
 conduce_a: []
 alias: ["permisos de archivo", "file permissions"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0001, FTE-0002]
 ---
 
 # Permisos de archivos

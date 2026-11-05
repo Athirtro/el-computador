@@ -8,7 +8,7 @@ prerequisitos: [tabla-hash]
 conduce_a: []
 alias: ["colisión hash", "colisión en tabla de dispersión", "hash collision"]
 estado: borrador
-fuentes: []
+fuentes: [FTE-0005]
 ---
 
 # Colisión en tabla hash
