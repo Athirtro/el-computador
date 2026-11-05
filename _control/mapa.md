@@ -124,13 +124,13 @@
 Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] → [[gestion-de-recursos]] → [[memoria-virtual]] → [[espacio-de-usuario]] / [[espacio-de-kernel]] → [[lenguajes-de-programacion]] → [[compilacion]] → [[lenguaje-ensamblador]] → [[codigo-maquina]] → [[conjunto-de-instrucciones-isa]] → ... (física)
 
 ## 2b. Sistema - expansión S-7 (auditoría)
-- [[sincronizacion-de-hilos]] — pendiente
-- [[multitarea-cooperativa]] — pendiente
-- [[multitarea-preventiva]] — pendiente
-- [[estado-de-proceso]] — pendiente
-- [[identificador-de-proceso]] — pendiente
-- [[tabla-de-paginas-multinivel]] — pendiente
-- [[sustitucion-de-paginas]] — pendiente
+- [[sincronizacion-de-hilos]] — borrador (exclusión mutua)
+- [[multitarea-cooperativa]] — borrador (cesión voluntaria)
+- [[multitarea-preventiva]] — borrador (interrupción forzada)
+- [[estado-de-proceso]] — borrador (listo/ejecución/bloqueado)
+- [[identificador-de-proceso]] — borrador (PID)
+- [[tabla-de-paginas-multinivel]] — borrador (directorios)
+- [[sustitucion-de-paginas]] — borrador (víctima FIFO/LRU)
 - [[tlb]] — pendiente
 - [[entrada-de-pagina]] — pendiente
 - [[bit-de-presencia]] — pendiente

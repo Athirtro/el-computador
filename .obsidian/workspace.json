@@ -183,6 +183,13 @@
   },
   "active": "53670453b4f84789",
   "lastOpenFiles": [
+    "01-ordenador/software/sistema/estado-de-proceso.md",
+    "01-ordenador/software/sistema/multitarea-cooperativa.md",
+    "01-ordenador/software/sistema/sincronizacion-de-hilos.md",
+    "01-ordenador/software/sistema/sustitucion-de-paginas.md",
+    "01-ordenador/software/sistema/tabla-de-paginas-multinivel.md",
+    "01-ordenador/software/sistema/multitarea-preventiva.md",
+    "01-ordenador/software/sistema/identificador-de-proceso.md",
     "01-ordenador/software/sistema/sed9vKoM9",
     "01-ordenador/software/sistema/sedsaPXet",
     "01-ordenador/software/sistema/sedmV2Ak2",
@@ -193,7 +200,6 @@
     "01-ordenador/software/sistema/sedlDnv7X",
     "01-ordenador/software/sistema/sedSLkaPL",
     "01-ordenador/software/sistema/seduRhba5",
-    "01-ordenador/software/sistema/sedakeee8",
     "01-ordenador/software/sistema/diagnostico-de-sistema.md",
     "01-ordenador/software/sistema/hilos-concurrencia.md",
     "01-ordenador/software/sistema/bloque-de-control-de-proceso.md",
@@ -212,12 +218,6 @@
     "01-ordenador/software/sistema/permisos-de-archivos.md",
     "01-ordenador/software/sistema/interrupciones.md",
     "01-ordenador/software/sistema/tabla-hash.md",
-    "01-ordenador/software/sistema/arbol.md",
-    "01-ordenador/software/sistema/cola-fifo.md",
-    "01-ordenador/software/sistema/cambio-de-contexto.md",
-    "01-ordenador/software/sistema/planificador.md",
-    "01-ordenador/software/sistema/paginacion.md",
-    "01-ordenador/software/sistema/llamadas-al-sistema.md",
-    "01-ordenador/software/sistema/segmentacion.md"
+    "01-ordenador/software/sistema/arbol.md"
   ]
 }

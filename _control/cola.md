@@ -101,3 +101,10 @@
 8be. [[ntfs]] — prerequisitos: [tipos-de-sistema-de-archivos] → conduce_a: []
 8bf. [[fat32]] — prerequisitos: [tipos-de-sistema-de-archivos] → conduce_a: []
 8bg. [[seguridad-aplicacion-con-red]] — prerequisitos: [aplicacion-con-red] → conduce_a: []
+8af. [[sincronizacion-de-hilos]] — prerequisitos: [hilos-concurrencia] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+8ag. [[multitarea-cooperativa]] — prerequisitos: [multitarea] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+8ah. [[multitarea-preventiva]] — prerequisitos: [multitarea] → conduce_a: [interrupciones] (borrador entregado, con FTE-0001/0002)
+8ai. [[estado-de-proceso]] — prerequisitos: [proceso] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+8aj. [[identificador-de-proceso]] — prerequisitos: [proceso] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+8ak. [[tabla-de-paginas-multinivel]] — prerequisitos: [tabla-de-paginas] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+8al. [[sustitucion-de-paginas]] — prerequisitos: [fallo-de-pagina] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
