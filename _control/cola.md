@@ -7,11 +7,16 @@
 4b. [[software-de-aplicacion]] — prerequisitos: [software] → conduce_a: [aplicacion-grafica, aplicacion-con-red] (borrador entregado, sin fuentes)
 4c. [[software-de-programacion]] — prerequisitos: [software] → conduce_a: [lenguajes-de-programacion, compilador, interprete] (borrador entregado, circularidad corregida: prerequisito solo [software])
 4d. [[software-malicioso]] — prerequisitos: [software] → conduce_a: [malware, vulnerabilidades, exploits, defensa-malware] (borrador entregado, sin fuentes)
-5. [[sistema-operativo]] — prerequisitos: [software-de-sistema] → conduce_a: [nucleo-kernel]
+5. [[sistema-operativo]] — prerequisitos: [software-de-sistema] → conduce_a: [nucleo-kernel, sistema-de-archivos, controladores-drivers] (borrador entregado, sin fuentes)
+5a. [[firmware]] — prerequisitos: [software-de-sistema] → conduce_a: [bios-uefi] (borrador entregado, sin fuentes)
 6. [[nucleo-kernel]] — prerequisitos: [sistema-operativo] → conduce_a: [gestion-de-recursos]
 7. [[gestion-de-recursos]] — prerequisitos: [nucleo-kernel] → conduce_a: [gestor-de-procesos, gestor-de-memoria]
 8. [[memoria-virtual]] — prerequisitos: [gestor-de-memoria] → conduce_a: [espacio-de-usuario, espacio-de-kernel]
-9. [[lenguajes-de-programacion]] — prerequisitos: [software-de-programacion] → conduce_a: [lenguajes-compilados, lenguajes-interpretados]
+9. [[lenguajes-de-programacion]] — prerequisitos: [software-de-programacion] → conduce_a: [lenguajes-compilados, lenguajes-interpretados] (borrador entregado, sin fuentes)
+9a. [[aplicacion-grafica]] — prerequisitos: [software-de-aplicacion] → conduce_a: [] (borrador entregado, rama terminal)
+9b. [[aplicacion-con-red]] — prerequisitos: [software-de-aplicacion] → conduce_a: [] (borrador entregado, rama terminal)
+9c. [[malware]] — prerequisitos: [software-malicioso] → conduce_a: [defensa-malware] (borrador entregado, sin fuentes)
+9d. [[vulnerabilidades]] — prerequisitos: [software-malicioso] → conduce_a: [exploits] (borrador entregado, sin fuentes)
 10. [[compilacion]] — prerequisitos: [lenguajes-compilados, compilador] → conduce_a: [lenguaje-ensamblador]
 11. [[lenguaje-ensamblador]] — prerequisitos: [compilacion] → conduce_a: [codigo-maquina]
 12. [[codigo-maquina]] — prerequisitos: [lenguaje-ensamblador] → conduce_a: [conjunto-de-instrucciones-isa]

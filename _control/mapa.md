@@ -52,9 +52,9 @@
 ## 2. Software (visible → físico)
 - Sistema
   - [[software-de-sistema]] — borrador (reescrito panorama 4 subgrupos)
-  - [[firmware]] — pendiente
+  - [[firmware]] — borrador (panorama)
   - [[bios-uefi]] — pendiente
-  - [[sistema-operativo]] — pendiente (legado: `El sistema operativo.md`)
+  - [[sistema-operativo]] — borrador (entorno integral)
   - [[nucleo-kernel]] — pendiente (legado: `El Kernel.md`)
   - [[gestion-de-recursos]] — pendiente (legado: `Gestión de recursos.md`)
   - [[gestor-de-procesos]] — pendiente
@@ -65,11 +65,11 @@
   - [[formatos-de-archivos]] — pendiente (legado: `Formatos de archivos.md`)
 - Aplicación
   - [[software-de-aplicacion]] — borrador (panorama por finalidad)
-  - [[aplicacion-grafica]] — pendiente
-  - [[aplicacion-con-red]] — pendiente
+  - [[aplicacion-grafica]] — borrador (GUI)
+  - [[aplicacion-con-red]] — borrador (cliente-servidor)
 - Programación
   - [[software-de-programacion]] — borrador (panorama lenguajes/traductores/IDE)
-  - [[lenguajes-de-programacion]] — pendiente (legado: `Lenguajes de programación.md`)
+  - [[lenguajes-de-programacion]] — borrador (sintaxis/semántica)
   - [[lenguajes-compilados]] — pendiente (legado: `Lenguajes compilados.md`)
   - [[lenguajes-interpretados]] — pendiente
   - [[compilacion]] — pendiente (legado: `Compilación.md`)
@@ -83,8 +83,8 @@
   - [[cargadores]] — pendiente
 - Malicioso
   - [[software-malicioso]] — borrador (panorama técnico/defensivo sin exploits detallados)
-  - [[malware]] — pendiente
-  - [[vulnerabilidades]] — pendiente
+  - [[malware]] — borrador (clasificación)
+  - [[vulnerabilidades]] — borrador (defecto)
   - [[exploits]] — pendiente
   - [[defensa-malware]] — pendiente
 
