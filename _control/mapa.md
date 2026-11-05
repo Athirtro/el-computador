@@ -161,6 +161,6 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[credenciales]] — borrador (secreto + custodia)
 - [[autenticacion]] — borrador (contraste identidad)
 - [[tabla-maestra-de-archivos]] — borrador (MFT)
-- [[lista-de-control-de-acceso]] — pendiente
-- [[extent]] — pendiente
-- [[registro-de-eventos-detalle]] — pendiente
+- [[lista-de-control-de-acceso]] — borrador (ACL)
+- [[extent]] — borrador (rango contiguo)
+- [[registro-de-eventos-detalle]] — borrador (entradas, gravedad, filtro)

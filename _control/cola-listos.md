@@ -86,3 +86,6 @@
 104. [[credenciales]] — prerequisitos: [usuario-de-sistema] → conduce_a: [autenticacion] (borrador entregado, con FTE-0001/0002)
 105. [[autenticacion]] — prerequisitos: [credenciales] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 106. [[tabla-maestra-de-archivos]] — prerequisitos: [ntfs] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+107. [[lista-de-control-de-acceso]] — prerequisitos: [ntfs, permisos-de-archivos] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+108. [[extent]] — prerequisitos: [ext4] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+109. [[registro-de-eventos-detalle]] — prerequisitos: [registro-de-eventos] → conduce_a: [] (borrador entregado, con FTE-0001/0002)

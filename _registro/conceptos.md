@@ -577,3 +577,21 @@
 - Alias: Master File Table, MFT
 - Cubre: MFT, entradas numeradas
 - No cubre: detalle atributos
+
+## lista-de-control-de-acceso
+- Nota canónica: [[lista-de-control-de-acceso]]
+- Alias: ACL, access control list
+- Cubre: ACL, usuarios/grupos/acciones
+- No cubre: detalle MFT
+
+## extent
+- Nota canónica: [[extent]]
+- Alias: extensión contigua, extent
+- Cubre: rango contiguo de bloques
+- No cubre: detalle interno ext4
+
+## registro-de-eventos-detalle
+- Nota canónica: [[registro-de-eventos-detalle]]
+- Alias: formato de entrada de registro, niveles de gravedad del registro, filtrado del registro de eventos
+- Cubre: entradas, gravedad, filtro
+- No cubre: sintaxis herramienta

@@ -59,6 +59,3 @@
 103. [[instruccion-privilegiada]] — prerequisitos: [modo-privilegiado] → conduce_a: [] (hueco software S-8)
 104. [[credenciales]] — prerequisitos: [usuario-de-sistema] → conduce_a: [autenticacion]
 105. [[autenticacion]] — prerequisitos: [credenciales] → conduce_a: [] (hueco software S-8)
-107. [[lista-de-control-de-acceso]] — prerequisitos: [ntfs, permisos-de-archivos] → conduce_a: [] (hueco software S-8)
-108. [[extent]] — prerequisitos: [ext4] → conduce_a: [] (hueco software S-8)
-109. [[registro-de-eventos-detalle]] — prerequisitos: [registro-de-eventos] → conduce_a: [] (hueco software S-8)
