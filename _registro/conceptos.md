@@ -823,3 +823,39 @@
 - Alias: dibujo en pantalla, renderizado
 - Cubre: píxeles, composición, búfer
 - No cubre: primitiva detalle
+
+## contenedor-multimedia
+- Nota canónica: [[contenedor-multimedia]]
+- Alias: contenedor multimedia, multimedia container, formato contenedor
+- Cubre: agrupa pistas e índices
+- No cubre: detalle códec
+
+## compresion-de-datos
+- Nota canónica: [[compresion-de-datos]]
+- Alias: compresión de datos, data compression
+- Cubre: redundancia, con/sin pérdida
+- No cubre: contenedor
+
+## formato-de-documento
+- Nota canónica: [[formato-de-documento]]
+- Alias: formato de documento, document format
+- Cubre: representación disco del documento
+- No cubre: formatos-de-archivos general
+
+## certificados-digitales
+- Nota canónica: [[certificados-digitales]]
+- Alias: certificado digital, digital certificate
+- Cubre: documento firmado identidad
+- No cubre: criptografía detalle
+
+## criptografia-clave
+- Nota canónica: [[criptografia-clave]]
+- Alias: criptografía con clave, cryptography with key
+- Cubre: clave simétrica/asimétrica
+- No cubre: confidencialidad detalle
+
+## confidencialidad-integridad
+- Nota canónica: [[confidencialidad-integridad]]
+- Alias: confidencialidad de los datos, integridad de los datos
+- Cubre: solo lee / detecta cambio
+- No cubre: criptografía detalle

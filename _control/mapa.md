@@ -208,9 +208,9 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[propagacion-de-eventos]] — borrador (burbujeo jerarquía)
 - [[primitiva-grafica]] — borrador (forma mínima)
 - [[dibuixado-en-pantalla]] — borrador (píxeles)
-- [[contenedor-multimedia]] — pendiente
-- [[compresion-de-datos]] — pendiente
-- [[formato-de-documento]] — pendiente
-- [[certificados-digitales]] — pendiente
-- [[criptografia-clave]] — pendiente
-- [[confidencialidad-integridad]] — pendiente
+- [[contenedor-multimedia]] — borrador (agrupa pistas)
+- [[compresion-de-datos]] — borrador (redundancia)
+- [[formato-de-documento]] — borrador (representación disco)
+- [[certificados-digitales]] — borrador (documento firmado)
+- [[criptografia-clave]] — borrador (simetrica/asimétrica)
+- [[confidencialidad-integridad]] — borrador (solo lee / detecta cambio)
