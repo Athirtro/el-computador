@@ -93,3 +93,7 @@
 201. [[aplicacion-movil]] — prerequisitos: [software-de-aplicacion] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 202. [[aplicacion-web]] — prerequisitos: [software-de-aplicacion] → conduce_a: [navegador-web] (borrador entregado, con FTE-0001/0002)
 203. [[aplicacion-de-consola]] — prerequisitos: [software-de-aplicacion] → conduce_a: [terminal-de-texto] (borrador entregado, con FTE-0001/0002)
+204. [[procesador-de-texto]] — prerequisitos: [aplicacion-grafica] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+205. [[navegador-web]] — prerequisitos: [aplicacion-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+206. [[reproductor-multimedia]] — prerequisitos: [software-de-aplicacion] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+207. [[gestor-de-archivos-grafico]] — prerequisitos: [aplicacion-grafica] → conduce_a: [] (borrador entregado, con FTE-0001/0002)

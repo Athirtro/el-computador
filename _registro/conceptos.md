@@ -619,3 +619,27 @@
 - Alias: aplicación de consola, console application, aplicación de terminal
 - Cubre: texto en terminal
 - No cubre: [[aplicacion-grafica]]
+
+## procesador-de-texto
+- Nota canónica: [[procesador-de-texto]]
+- Alias: procesador de texto, editor de documentos
+- Cubre: documentos con formato
+- No cubre: formato concreto
+
+## navegador-web
+- Nota canónica: [[navegador-web]]
+- Alias: navegador web, web browser
+- Cubre: interpreta y presenta contenido web
+- No cubre: lógica servidor
+
+## reproductor-multimedia
+- Nota canónica: [[reproductor-multimedia]]
+- Alias: reproductor multimedia, media player
+- Cubre: audio/vídeo sincronizado
+- No cubre: detalle códecs
+
+## gestor-de-archivos-grafico
+- Nota canónica: [[gestor-de-archivos-grafico]]
+- Alias: gestor de archivos gráfico, explorador de archivos, file manager
+- Cubre: navegación jerárquica gráfica
+- No cubre: sistema-de-archivos detalle

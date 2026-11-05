@@ -170,10 +170,10 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[aplicacion-movil]] — borrador (táctil, sensores)
 - [[aplicacion-web]] — borrador (navegador/servidor)
 - [[aplicacion-de-consola]] — borrador (texto en terminal)
-- [[procesador-de-texto]] — pendiente
-- [[navegador-web]] — pendiente
-- [[reproductor-multimedia]] — pendiente
-- [[gestor-de-archivos-grafico]] — pendiente
+- [[procesador-de-texto]] — borrador (formato)
+- [[navegador-web]] — borrador (interpretar/presentar)
+- [[reproductor-multimedia]] — borrador (audio/vídeo sincronizado)
+- [[gestor-de-archivos-grafico]] — borrador (navegación jerárquica)
 - [[ventana]] — pendiente
 - [[widget]] — pendiente
 - [[interfaz-grafica-de-usuario]] — pendiente
