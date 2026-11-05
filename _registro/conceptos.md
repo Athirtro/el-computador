@@ -667,3 +667,9 @@
 - Alias: evento de interfaz, evento
 - Cubre: notificación usuario→app
 - No cubre: [[interrupciones]]
+
+## gestion-de-ventanas
+- Nota canónica: [[gestion-de-ventanas]]
+- Alias: gestión de ventanas, window management
+- Cubre: apilar, mover, activar, cerrar
+- No cubre: detalle widget

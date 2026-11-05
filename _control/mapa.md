@@ -177,7 +177,7 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[ventana]] — borrador (rectángulo delimitado)
 - [[widget]] — borrador (control en ventana)
 - [[interfaz-grafica-de-usuario]] — borrador (conjunto elementos)
-- [[gestion-de-ventanas]] — pendiente
+- [[gestion-de-ventanas]] — borrador (apilar/mover/activar/cerrar)
 - [[eventos-de-interfaz]] — borrador (notificación usuario→app)
 - [[red-de-computadores]] — pendiente
 - [[protocolo-de-red]] — pendiente

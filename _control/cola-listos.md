@@ -101,3 +101,4 @@
 209. [[widget]] — prerequisitos: [ventana] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 210. [[interfaz-grafica-de-usuario]] — prerequisitos: [aplicacion-grafica] → conduce_a: [ventana] (borrador entregado, con FTE-0001/0002)
 211. [[eventos-de-interfaz]] — prerequisitos: [widget] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+212. [[gestion-de-ventanas]] — prerequisitos: [ventana] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
