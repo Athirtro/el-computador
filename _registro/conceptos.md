@@ -739,3 +739,27 @@
 - Alias: manejador del evento, respuesta, callback
 - Cubre: respuesta/callback, registro/orden
 - No cubre: detalle widget
+
+## direccion-web
+- Nota canónica: [[direccion-web]]
+- Alias: dirección web, URL, uniform resource locator
+- Cubre: URL, protocolo+servidor+ruta
+- No cubre: [[protocolo-http]]
+
+## protocolo-http
+- Nota canónica: [[protocolo-http]]
+- Alias: protocolo HTTP, HTTP, Hypertext Transfer Protocol
+- Cubre: métodos, cabeceras, estados
+- No cubre: [[direccion-web]]
+
+## servidor-web
+- Nota canónica: [[servidor-web]]
+- Alias: servidor web, web server
+- Cubre: especialización web de servidor
+- No cubre: [[protocolo-http]]
+
+## lenguaje-de-programacion-web
+- Nota canónica: [[lenguaje-de-programacion-web]]
+- Alias: lenguaje para programar en el navegador, web programming language
+- Cubre: código ejecutable en cliente web
+- No cubre: [[lenguaje-de-descripcion-de-documentos]]

@@ -194,10 +194,10 @@ Cadena software: [[software]] → [[sistema-operativo]] → [[nucleo-kernel]] �
 - [[manejador-de-eventos]] — borrador (respuesta/callback)
 
 ## Aplicación - 14 huecos A-E (S-A2)
-- [[direccion-web]] — pendiente
-- [[protocolo-http]] — pendiente
-- [[servidor-web]] — pendiente
-- [[lenguaje-de-programacion-web]] — pendiente
+- [[direccion-web]] — borrador (URL)
+- [[protocolo-http]] — borrador (HTTP)
+- [[servidor-web]] — borrador (especialización web)
+- [[lenguaje-de-programacion-web]] — borrador (código en cliente)
 - [[aplicacion-nativa]] — pendiente
 - [[aplicacion-hibrida]] — pendiente
 - [[sistema-operativo-movil]] — pendiente

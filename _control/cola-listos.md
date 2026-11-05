@@ -113,3 +113,7 @@
 221. [[protocolos-de-la-web]] — prerequisitos: [navegador-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 222. [[codec]] — prerequisitos: [reproductor-multimedia] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
 223. [[manejador-de-eventos]] — prerequisitos: [eventos-de-interfaz] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+228. [[direccion-web]] — prerequisitos: [protocolos-de-la-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+229. [[protocolo-http]] — prerequisitos: [protocolos-de-la-web] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+230. [[servidor-web]] — prerequisitos: [servidor] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
+231. [[lenguaje-de-programacion-web]] — prerequisitos: [lenguaje-de-descripcion-de-documentos] → conduce_a: [] (borrador entregado, con FTE-0001/0002)
