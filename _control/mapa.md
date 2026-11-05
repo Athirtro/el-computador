@@ -5,7 +5,7 @@
 ## 0. Raíz
 - [[ordenador]] — pendiente
 - [[hardware]] — pendiente (legado: `Hardware.md` vacío en raíz)
-- [[software]] — pendiente (legado: `Software.md` con prosa, código Python/C no autorizado por §5)
+- [[software]] — borrador (reescrito según §5/§11, pendiente fuentes)
 
 ## 1. Hardware (visible → físico)
 - Procesador

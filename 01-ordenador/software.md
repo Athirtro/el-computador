@@ -1,51 +1,41 @@
-Desde mi perspectiva, el software es el componente intangible del ordenador. Es el dispositivo abstracto encargado de controlar el hardware a fin de manipular los electrones en el sistema para realizar cálculos y ajustar su representación a estándares comprensibles por otros sistemas mecánicos o biológicos.
+---
+titulo: "Software"
+slug: software
+rama: software
+categoria: ""
+nivel: 1
+prerequisitos: [ordenador]
+conduce_a: [software-de-sistema, software-de-aplicacion, software-de-programacion, software-malicioso]
+alias: ["software", "programa"]
+estado: borrador
+fuentes: []
+---
 
-Un ejemplo inmediato de software es el sistema operativo, el cual actúa como el entorno integral que nos permite interactuar con la computadora. En su centro se encuentra el _kernel_ o núcleo, la pieza clave de software de más bajo nivel que tiene control directo sobre los componentes físicos del dispositivo y coordina todos sus recursos.
+# Software
 
-Un ejemplo de software un poco menos directo puede ser un programa escrito por un ser humano. Dicen que la programación es la brujería del siglo XXI, lo cual para mí tiene mucho sentido, porque una persona escribe códigos extraños que muy poca gente es capaz de interpretar correctamente y hace que un montón de piedras con formas extrañas realicen tareas por él. Por ejemplo:
+## Idea central
+El software es el componente intangible del ordenador: las instrucciones y los datos que indican al hardware qué debe hacer. Sin software, el hardware no tiene propósito; sin hardware, el software no tiene cuerpo sobre el que ejecutarse.
 
-```Python
-def factorial(n):
-    return n * factorial(n - 1) if n > 0 else 1
-```
+## Antes de empezar
+- [[ordenador]]: qué es el ordenador y por qué se distingue entre lo físico y lo intangible.
+- [[hardware]]: los componentes físicos que el software controla.
 
-`factorial` es una función escrita en un lenguaje de programación llamado Python, uno de altísimo nivel, cuyo propósito es calcular de manera recursiva el valor de aplicar el operador matemático factorial a un número _n_ cualquiera. O casi cualquiera. Pero, si nos paramos a pensar un momento en las implicaciones que esto tiene, resulta enigmático: ¿cómo es que un montón de chatarra conectada a la corriente es capaz de calcular algo tan complejo como un factorial? ¿Qué clase de brujería le permite a una máquina pensar?
+## Explicación
+El hardware —procesadores, memorias, dispositivos y circuitos— solo cambia de estado cuando recibe instrucciones. El software es ese conjunto de instrucciones y datos. No se puede tocar, pero produce efectos reales: mueve información de un lugar a otro, realiza cálculos y presenta resultados en formas comprensibles para otras personas o sistemas. La distinción no es entre "real" e "irreal", sino entre lo físico, que lo forma [[hardware]], y lo lógico, que lo forma el software.
 
-Incluso, si cambiamos por un lenguaje de aún menor nivel, podemos ver lo siguiente:
+El ejemplo más visible es el [[sistema-operativo]], el [[software-de-sistema]] que permite interactuar con el ordenador. En su centro se encuentra el [[nucleo-kernel]] (kernel), el componente de software más cercano al hardware: coordina sus recursos y decide qué ocurre con cada petición. Esta nota no desarrolla cómo lo hace; solo establece que existe un software cuya función es gestionar el hardware mismo. El detalle se trata en [[software-de-sistema]], [[sistema-operativo]] y [[nucleo-kernel]].
 
-```C
-#include <stdio.h>
+Otro ejemplo, menos inmediato, es un programa escrito por una persona. Un programa expresa una tarea en un [[lenguajes-de-programacion]] —un lenguaje formal con el que se describen operaciones— y el ordenador la ejecuta. Considérese la operación matemática factorial: multiplicar un número por todos los enteros menores que él hasta llegar a uno. Describirla en un lenguaje de programación parece sencillo, pero plantea un enigma de fondo: cómo pasa el hardware de ejecutar instrucciones elementales a producir el resultado de una operación abstracta. Explicar esa cadena —cómo un lenguaje se traduce hasta el código que el procesador evalúa— es tarea de la programación y de los niveles inferiores, no de esta nota. Se desarrolla en [[software-de-programacion]] y [[lenguajes-de-programacion]].
 
-// Versión recursiva (equivalente directa)
-unsigned long long factorial_recursivo(int n) {
-    return (n > 0) ? (n * factorial_recursivo(n - 1)) : 1;
-}
+Tampoco todo software es un programa que se ejecuta en un momento dado. Una imagen, un documento o una página web son información que solo cobra sentido mediante software que lo interprete: son [[estructuras-de-datos]] y [[formatos-de-archivos]] que necesitan un visor, un navegador o un reproductor para mostrarse. Decir que un archivo "es" software es confuso; lo correcto es decir que está organizado según una estructura y un formato, y que requiere software para usarse.
 
-// Versión iterativa (de menor nivel a nivel de ejecución de CPU, sin overhead de pila)
-unsigned long long factorial_iterativo(int n) {
-    unsigned long long resultado = 1;
-    for (int i = 2; i <= n; i++) {
-        resultado *= i;
-    }
-    return resultado;
-}
+Por su función, el consenso clasifica el software en cuatro grupos. El [[software-de-sistema]] gestiona y controla el hardware; lo integran el sistema operativo, el núcleo, el firmware y los controladores. El [[software-de-aplicacion]] está dirigido a tareas concretas del usuario, como editar texto, navegar o reproducir contenido. El [[software-de-programacion]] abarca las herramientas que permiten crear otros programas, desde los lenguajes hasta compiladores e intérpretes. El [[software-malicioso]] reúne los programas diseñados para dañar, espiar o aprovechar errores del sistema, y se trata desde el punto de vista técnico y defensivo. Esta clasificación sirve para ordenar el libro, no para encerrar cada programa en una sola caja: un mismo programa puede combinar funciones de más de un grupo.
 
-int main(void) {
-    int n = 5;
-    printf("Factorial de %d: %llu\n", n, factorial_recursivo(n));
-    return 0;
-}
-```
+## Cómo se conecta con lo anterior y lo siguiente
+Desde [[ordenador]] se llega al software del mismo modo que se llega al hardware: el ordenador tiene dos caras, una física y una lógica. Esta nota aporta la segunda y prepara el recorrido. Desde aquí, el paso natural es el [[software-de-sistema]] y el [[sistema-operativo]], para seguir hacia el [[nucleo-kernel]] y la gestión de recursos. Las otras tres ramas —[[software-de-aplicacion]] para el uso cotidiano, [[software-de-programacion]] para crear software y [[software-malicioso]] para comprender sus abusos— parten de la misma distinción inicial.
 
-Aquí vemos de una forma mucho más explícita cómo hacemos que un ordenador piense. Primero, analicemos la versión recursiva, que es la equivalencia directa del código escrito en Python. En esta versión vemos que lo primero que hace el programador es indicar al sistema que la función va a devolver un número muy, muy grande y además positivo. Luego, le indica que el parámetro _n_ debe ser tratado como un valor entero. Por último, tenemos una transliteración del mismo operador condicional utilizado en Python, donde inicialmente observamos una condición y, en caso de que se compruebe positiva, devolvemos el producto de _n_ por el factorial de _n - 1_; si no, devolvemos 1.
+## Límites de esta explicación
+Esta nota no explica cómo el sistema operativo gestiona procesos y memoria, ni cómo un lenguaje de programación se traduce en [[compilacion]], [[lenguaje-ensamblador]] y [[codigo-maquina]]. Tampoco detalla los tipos de aplicación ni las técnicas del software malicioso. Cada uno de esos temas tiene su nota canónica.
 
-Luego, tenemos la versión iterativa, que nos permite dimensionar la complejidad latente de la operación que estábamos llevando a cabo en una única línea en el caso anterior, pues esta es una de las principales características del software moderno: no existe una única manera de llevar a cabo una tarea. Sin embargo, aunque C está más cerca del hardware que Python, la CPU tampoco lo entiende directamente: este código debe traducirse primero a lenguaje ensamblador y luego a código máquina (ceros y unos), las únicas instrucciones que los circuitos son capaces de interpretar.
-
-En fin, no todo el universo del software es código ejecutable. A menudo interactuamos con objetos virtuales que damos por sentado, como los archivos PDF, las páginas web, las imágenes, los videos o la música. Aunque solemos pensar en ellos simplemente como elementos del sistema, en realidad son estructuras de datos y formatos que requieren de un software específico (un visor, un navegador o un reproductor) para ser interpretados y cobrar vida.
-
-Sin embargo, el consenso actual es clasificar el software en cuatro grandes grupos según su función y el objetivo para el que se desarrolla:
-
-- [[Software de sistema]]
-- [[Software de aplicación]]
-- [[Software de programación]]
-- [[Software malicioso]]
+## Referencias
+Sin referencias registradas en `_registro/fuentes.md`. No se han añadido fuentes a esta nota.

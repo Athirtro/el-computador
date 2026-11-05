@@ -1,7 +1,7 @@
 # Cola - Temas pendientes en orden de prerequisitos
 
 1. [[ordenador]] — prerequisitos: [] → conduce_a: [software, hardware]
-2. [[software]] — prerequisitos: [ordenador] → conduce_a: [software-de-sistema, sistema-operativo]
+2. [[software]] — prerequisitos: [ordenador] → conduce_a: [software-de-sistema, software-de-aplicacion, software-de-programacion, software-malicioso] (borrador entregado)
 3. [[hardware]] — prerequisitos: [ordenador] → conduce_a: [procesador, memoria-ram]
 4. [[software-de-sistema]] — prerequisitos: [software] → conduce_a: [sistema-operativo]
 5. [[sistema-operativo]] — prerequisitos: [software-de-sistema] → conduce_a: [nucleo-kernel]
