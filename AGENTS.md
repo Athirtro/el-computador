@@ -207,7 +207,7 @@ El subagente **no decide** la estructura del libro. Puede proponer al orquestado
 
 - [ ] Frontmatter completo; `slug == nombre de archivo`; estados válidos y sincronizados con `_control/mapa.md`.
 - [ ] Explica un solo peldaño. Sin saltos: todo término nuevo está definido o enlazado.
-- [ ] Prerequisitos existen como nota o están en `cola.md` con su slug. `conduce_a` apunta a notas previstas.
+- [ ] Prerequisitos existen como nota en `cola-listos.md` (no en `cola-pendientes.md`). `conduce_a` solo a slugs en `cola-listos.md`; sin enlaces a pendientes.
 - [ ] No duplica concepto canónico en `conceptos.md`; alias únicos.
 - [ ] Afirmaciones técnicas con fuente en `_registro/fuentes.md`; sin fuentes inventadas.
 - [ ] Sin código/diagramas no autorizados. Sin imágenes binarias salvo permiso explícito.
